@@ -1,1 +1,1 @@
- The new approach to Git repo templates, an ultimate template culminated in less than 2 weeks that combines all template categories into one. A very powerful Git template. 
+Android x64 is a community project to virtualize and DeGoogle the Android operating system by Google, specifically the 64 bit versions.
