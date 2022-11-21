@@ -32,6 +32,33 @@
 *.css linguist-detectable=true
 *.css linguist-documentation=false
 *.css linguist-language=CSS
+# C source file
+*.c linguist-detectable=true
+*.c linguist-documentation=false
+*.c linguist-language=C
+# C header source file
+*.h linguist-detectable=true
+*.h linguist-documentation=false
+*.h linguist-language=C
+# Assembly source file
+*.asm linguist-detectable=true
+*.asm linguist-documentation=false
+*.asm linguist-language=Assembly
+# Java source file
+*.java linguist-detectable=true
+*.java linguist-documentation=false
+*.java linguist-language=Java
+# Linker Script source file
+*.ld linguist-detectable=true
+*.ld linguist-documentation=false
+*.ld linguist-language=Linker-Script
+*.lds linguist-detectable=true
+*.lds linguist-documentation=false
+*.lds linguist-language=Linker-Script
+# Reserved for use on another language
+# *.x linguist-detectable=true
+# *.x linguist-documentation=false
+# *.x linguist-language=Linker-Script
 # Less stylesheet file
 *.less linguist-detectable=true
 *.less linguist-documentation=false
@@ -161,10 +188,12 @@
 *.gif linguist-detectable=false
 *.gif linguist-documentation=false
 *.gif linguist-language=GIF
+
 # End of linguist script
 
 # File info
-# File type: gitattributes file (.gitattributes)
-# File version: 4 (2022, Tuesday, June 28th at 2:32 pm PST)
-# Line count (including blank lines and compiler line): 171
+# File type: gitattributes file (*.gitattributes)
+# File version: 5 (2022, Monday, November 21st at 1:48 pm PST)
+# Line count (including blank lines and compiler line): 200
+
 # End of script
