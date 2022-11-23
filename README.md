@@ -225,11 +225,11 @@ License: GNU General Public License v3.0
 
 A replacement tool-set of Android default programs.
 
-##### Programs
+#### Programs
 
 - Coming soon
 
-#### F-Droid
+##### F-Droid
 
 Website: [`https://f-droid.org/`](https://f-droid.org/)
 
@@ -237,11 +237,53 @@ Repository: [`https://github.com/f-droid/fdroidclient/`](https://github.com/f-dr
 
 **From the F-Droid website:** F-Droid is an installable catalogue of FOSS (Free and Open Source  Software) applications for the Android platform. The client makes it  easy to browse, install, and keep track of updates on your device.
 
-#### DuckDuckGo privacy browser
+##### DuckDuckGo privacy browser
 
 Website: [`https://duckduckgo.com/app/`](https://duckduckgo.com/app/)
 
 **Included as an APK file**
+
+##### PhoneHome (SMS program)
+
+Repository: [`https://github.com/seanpm2001/PhoneHome`](https://github.com/seanpm2001/PhoneHome/)
+
+License: GNU General Public License v3.0
+
+PhoneHome is an open source SMS messaging and phone call program. Despite its name, it does not phone home to a service, it is named after the action of calling your own home.
+
+#### LIBraries
+
+#### SimZonns
+
+Repository: [`https://github.com/seanpm2001/SimZonns/`](https://github.com/seanpm2001/SimZonns/)
+
+License: GNU General Public License v3.0
+
+SimZonns is a open source SIM card emulator and format. It is currently not functional.
+
+#### NetM
+
+Repository: [`https://github.com/seanpm2001/NetM/`](https://github.com/seanpm2001/NetM/)
+
+License: GNU General Public License v3.0
+
+An open source replacement to Googles WebM and WebP file formats
+
+##### NetP
+
+Repository: [`https://github.com/seanpm2001/NetP/`](https://github.com/seanpm2001/NetP/)
+
+License: GNU General Public License v3.0
+
+An open source replacement to Googles WebP file format.
+
+##### NetV
+
+Repository: [`https://github.com/seanpm2001/NetV/`](https://github.com/seanpm2001/NetV/)
+
+License: GNU General Public License v3.0
+
+An open source replacement to Googles WebM file format.
 
 ***
 
@@ -308,9 +350,9 @@ The `LiveCD` edition(s) of this project currently doesn't have a license
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `5 (2022, Tuesday, November 22nd at 9:55 pm PST)`
+**File version:** `6 (2022, Tuesday, November 22nd at 11:00 pm PST)`
 
-**Line count (including blank lines and compiler line):** `478`
+**Line count (including blank lines and compiler line):** `542`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -469,6 +511,28 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 - [x] Added the `file history` section
 - - [x] Added an entry for version 5
 - [ ] No other changes in version 5
+
+</details>
+
+<details><summary><p lang="en"><b>Version 6 (2022, Tuesday, November 22nd at 11:00 pm PST</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes:
+
+- [x] Restructured the components section
+- - [x] Added PhoneHome SMS to the component list
+- - [x] Added SimZonns to the component list
+- - [x] Added NetM to the component list
+- - - [x] Added NetP to the component list
+- - - [x] Added NetV to the component list
+- [x] Updated the file info section
+- - [x] Added the version number
+- - [x] Added the version date
+- - [x] Added the line count
+- [x] Added the `file history` section
+- - [x] Added an entry for version 6
+- [ ] No other changes in version 6
 
 </details>
 
