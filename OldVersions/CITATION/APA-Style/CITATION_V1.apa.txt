@@ -1,0 +1,1 @@
+Myrick family, S. P. M. (2022). A homepage repository for the Android x64 operating system project, a series of Android distributions for usage in alternating from the Google Android operating system. [Data set]. https://doi.org/10.0000/00000
