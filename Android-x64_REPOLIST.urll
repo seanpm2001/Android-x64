@@ -2,13 +2,13 @@
 //// Android-x64_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Android x64 project repositories by @seanpm2001
-//// As of 2025, Friday, January 17th
+//// As of 2025, Saturday, January 18th
 
 //// ----------------------------------------------------- \\\\
-//// Android x64 Project (114)
+//// Android x64 Project (124)
 //// ----------------------------------------------------- \\\\
 
-//// Android x64 Project (114)
+//// Android x64 Project (124)
 https://github.com/seanpm2001/Android-x64_Workspace_Firefox
 https://github.com/seanpm2001/Android-x64
 https://github.com/seanpm2001/Android-x64_Docs
@@ -123,10 +123,20 @@ https://github.com/seanpm2001/Android-x64_LiveCD_5B_Docs
 https://github.com/seanpm2001/Android-x64_Android6.0_LiveCD_Edition_Docs
 https://github.com/seanpm2001/Android-x64_Android6.0_DeGoogled_Edition_Docs
 https://github.com/seanpm2001/Android-x64_Android6.0_Vanilla_Edition_Docs
+https://github.com/seanpm2001/Android-x64_Android6.0_Heavy_Edition_Docs
+https://github.com/seanpm2001/Android-x64_LiveCD_6B_Docs
+https://github.com/seanpm2001/Android-x64_Android6.1_LiveCD_Edition_Docs
+https://github.com/seanpm2001/Android-x64_Android6.1_DeGoogled_Edition_Docs
+https://github.com/seanpm2001/Android-x64_Android6.1_Vanilla_Edition_Docs
+https://github.com/seanpm2001/Android-x64_Android6.1_Heavy_Edition_Docs
+https://github.com/seanpm2001/Android-x64_LiveCD_6B_Docs
+https://github.com/seanpm2001/Android-x64_Android7.0_LiveCD_Edition_Docs
+https://github.com/seanpm2001/Android-x64_Android7.0_DeGoogled_Edition_Docs
+https://github.com/seanpm2001/Android-x64_Android7.0_Vanilla_Edition_Docs
 
 //// ----------------------------------------------------- \\\\
-//// Repo count (Android x64): 114
-//// 114+0=114
+//// Repo count (Android x64): 124
+//// 124+0=124
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
@@ -141,15 +151,15 @@ https://github.com/seanpm2001/Android-x32x64x128
 //// Repo count (See also): 4
 //// 4+0=4
 //// ----------------------------------------------------- \\\\
-//// Total repo count: 118
-//// 114+4=118
+//// Total repo count: 128
+//// 124+4=128
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 10 (2025, Friday, January 17th at 06:48 pm PST)
-//// Line count (including blank lines and compiler line): 156
+//// File version: 11 (2025, Saturday, January 18th at 05:10 pm PST)
+//// Line count (including blank lines and compiler line): 166
 //// ----------------------------------------------------- \\\\
 
 //// End of file
