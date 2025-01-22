@@ -24,6 +24,77 @@ See also: [:octocat: `Android x32`](https://github.com/seanpm2001/Android-x32/) 
 
 ***
 
+<!-- /%/2001_THIS_REPOSITORY_SECTION.BEGIN\%\ !-->
+
+## This repository
+
+[`View all files`](/ROOTFILES.base)
+
+| 📁️ Type 📄️ | 🔍️ Location 🔎️ | ℹ️ Purpose ℹ️ |
+|---|---|---|
+| 📁️ Folder/directory | [`/!Src/`](/!Src/) | Contains information for all Android x64 builds |
+| 📁️ Folder/directory | [`/.github/`](/.github/) | GitHub repository configuration data |
+| 📁️ Folder/directory | [`/.gitlab/`](/.gitlab/) | GitLab repository configuration data |
+| 📁️ Folder/directory | [`/Docs/`](/Docs/) | For Android x64 documentation (redirect) |
+| 📁️ Folder/directory | [`/Graphics/`](/Graphics/) | For Android x64 graphic files (images, video, audio) |
+| 📁️ Folder/directory | [`/OldVersions/`](/OldVersions/) | For archived old versions of files in this repository |
+| 📁️ Folder/directory | [`/RepoData/`](/RepoData/) | For general repository data (metadata, description) |
+| ⚙️ Configuration file | [`/.editorconfig`](/.editorconfig) | Editor Config file |
+| ⚙️ Configuration file | [`/.gitattributes`](/.gitattributes) | Git Attributes file |
+| ⚙️ Configuration file | [`/.gitignore`](/.gitignore) | Git Ignore file |
+| 🌐️ Webpage file | [`/404.html`](/404.html) | 404 page |
+| 🖼️ Image file | [`/404.jpeg`](/404.jpeg) | Image within 404 page |
+| ⬇️ Markdown file | [`/404.md`](/404.md) | 404 Jekyll page |
+| 👤️ Authors file | [`/AUTHORS`](/AUTHORS) | For displaying the authors of the project (plain text) |
+| 👤️ Authors file | [`/AUTHORS.md`](/AUTHORS.md) | For displaying the authors of the project (Markdown) |
+| 🤖️ Automation configuration file | [`/AUTOMATE2001.yaml`](/AUTOMATE2001.yaml) | For configuring the AUTOMATE2001 software tool to automate tasks on this repository. |
+| 🤖️ Automation configuration file | [`/AUTOMATE2001.yml`](/AUTOMATE2001.yml) | For configuring the AUTOMATE2001 software tool to automate tasks on this repository (copy) |
+| 📋️ Repository list file | [`/Android-x64_REPOLIST.urll`](/Android-x64_REPOLIST.urll) | For displaying a list of all repositories in this project group. |
+| 🖼️ Image file | [`/Android_Logo_HighDetail.png`](/Android_Logo_HighDetail.png) | A high-detail, 3D image of the Android robot mascot |
+| ✒️ Citation file | [`/CITATION.cff`](/CITATION.cff) | For enabling others to site this repository. |
+| 👥️ Contributions file | [`/CONTRIBUTING.md`](/CONTRIBUTING.md) | For listing instructions on what can/cannot be contributed to this project. |
+| 💳️ License file | [`/COPYINGL`](/COPYINGL) | A license hub that explains license usage for this project. |
+| 👤️ Credits file | [`/Credits`](/Credits) | For displaying the credits for the project (plain text) |
+| 👤️ Credits file | [`/Credits.wiki`](/Credits.wiki) | For displaying the credits for the project (WikiText) |
+| 🖼️ Image file | [`/DRM-free_label.en.svg`](/DRM-free_label.en.svg) | An image file that emphasizes this projects Anti-DRM stance. |
+| 1️⃣️ Initial file | [`/INITIAL_COMMIT.txt`](/INITIAL_COMMIT.txt) | A file that was generated alongside the repository, and represents the first commit |
+| 🔺️ Installation file | [`/INSTALL`](/INSTALL) | A file that gives instructions on how to install this project (plain text) |
+| 🔺️ Installation file | [`/INSTALL.rst`](/INSTALL.rst) | A file that gives instructions on how to install this project (reStructuredText) |
+| 🖥️ Linux Desktop entry file | [`/K.desktop`](/K.desktop) | A Linux desktop entry file for this project, allowing it to be easily launched on UNIX-like systems |
+| 💳️ License file | [`/LICENSE-GPL.asm`](/LICENSE-GPL.asm) | A GNU GPL3 license file for this project, with the Assembly file extension |
+| 💳️ License file | [`/LICENSE-GPL.c`](/LICENSE-GPL.c) | A GNU GPL3 license file for this project, with the C file extension |
+| 💳️ License file | [`/LICENSE-GPL.h`](/LICENSE-GPL.h) | A GNU GPL3 license file for this project, with the C header file extension |
+| 💳️ License file | [`/LICENSE-GPL.java`](/LICENSE-GPL.java) | A GNU GPL3 license file for this project, with the Java file extension |
+| 💳️ License file | [`/LICENSE-GPL.txt`](/LICENSE-GPL.txt) | A GNU GPL3 license file for this project, with the Plain Text file extension |
+| 💳️ License file | [`/LICENSE-GPL3.asm`](/LICENSE-GPL3.asm) | A GNU GPL3 license file for this project, with the Assembly file extension |
+| 💳️ License file | [`/LICENSE-GPL3.c`](/LICENSE-GPL3.c) | A GNU GPL3 license file for this project, with the C file extension |
+| 💳️ License file | [`/LICENSE-GPL3.h`](/LICENSE-GPL3.h) | A GNU GPL3 license file for this project, with the C header file extension |
+| 💳️ License file | [`/LICENSE-GPL3.java`](/LICENSE-GPL3.java) | A GNU GPL3 license file for this project, with the Java file extension |
+| 💳️ License file | [`/LICENSE-GPL3.txt`](/LICENSE-GPL3.txt) | A GNU GPL3 license file for this project, with the Plain Text file extension |
+| 💳️ License file | [`/LICENSE.asm`](/LICENSE.asm) | A GNU GPL3 license file for this project, with the Assembly file extension |
+| 💳️ License file | [`/LICENSE.c`](/LICENSE.c) | A GNU GPL3 license file for this project, with the C file extension |
+| 💳️ License file | [`/LICENSE.h`](/LICENSE.h) | A GNU GPL3 license file for this project, with the C header file extension |
+| 💳️ License file | [`/LICENSE.java`](/LICENSE.java) | A GNU GPL3 license file for this project, with the Java file extension |
+| 💳️ License file | [`/LICENSE.txt`](/LICENSE.txt) | A GNU GPL3 license file for this project, with the Plain Text file extension |
+| 🇨 C project language file | [`/PROJECT_LANG_1.c`](/PROJECT_LANG_1.c) | A project language file for this project, indicating usage of the C programming language as a major language here. | 
+| 🇨 C header project language file | [`/PROJECT_LANG_1.h`](/PROJECT_LANG_1.h) | A project language file for this project, indicating usage of the C programming language as a major language here. | 
+| ☕️ Java project language file | [`/PROJECT_LANG_2.java`](/PROJECT_LANG_2.java) | A project language file for this project, indicating usage of the Java programming language as a major language here. | 
+| 0️⃣️ Assembly project language file | [`/PROJECT_LANG_3.asm`](/PROJECT_LANG_3.asm) | A project language file for this project, indicating usage of the Assembly programming language as a major language here. | 
+| ⭐️ README file | [`/README.md`](/README.md) | The main README.md file for this project, explaining how to use this project, and where to start. |
+| 📜️ Rootfiles list file | [`/ROOTFILES.base`](/ROOTFILES.base) | The ROOTFILES base file for this project, listing all files and folders at the root of this repository. |
+| 🛡️ Security file | [`/SECURITY.md`](/SECURITY.md) | For listing security information for this project. |
+| 🖼️ Image file | [`/SponsorButton.png`](/SponsorButton.png) | An image file that shows the GitHub sponsor button in this project. |
+| 1️⃣️ Initial file | [`/WacOS-Other.md`](/WacOS-Other.md) | An initial file, indicating which branch of the generation template was used to create this repository. |
+| ⚙️ Configuration file | [`/_config.yml`](/_config.yml) | A configuration file for the Jekyll theme on this project. |
+| 🖥️ Windows Desktop entry file | [`/desktop.ini`](/desktop.ini) | The Windows desktop entry file for this project. |
+| 🔨️ Makefile | [`/makefile.mk`](/makefile.mk) | The main GNU Make build file for this project. |
+| 📃️ Pull request template | [`/pull_request_template.md`](/pull_request_template.md) | The pull request template file for this project, a template for starting a Git pull request. |
+| **📁️ Type 📄️** | **🔍️ Location 🔎️** | **ℹ️ Purpose ℹ️** |
+
+<!-- /%/2001_THIS-REPOSITORY_SECTION.END\%\ !-->
+
+***
+
 ### Builds
 
 <details open><summary><p><b>Click/tap here to expand/collapse the builds section</b></p></summary>
@@ -101,6 +172,9 @@ _End of Builds section._
 ## Supported Android versions
 
 <details open><summary><p><b>Click/tap here to expand/collapse the supported Android versions section</b></p></summary>
+
+| <img src="/Android_Logo_HighDetail.png" alt="High-detail green Android robot failed to load" width="128" height="128" title="Android robot 3D"> |
+|---|
 
 Android 4.4 and below are x86 versions of Android, and are unfortunately not covered by his project at this time. All 64-bit Android versions (5.0 Lollipop and up, up to 16.0 (as of 2025, January 21st)) are planned to be supported.
 
@@ -681,12 +755,12 @@ _End of legal information section_
     <td>
 
 - **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `7 (2025, Tuesday, January 21st at 04:19 pm PST)` <!-- TODO: This line should be updated daily !-->
-- **Line count (including blank lines and compiler line):** `1,033` <!-- This line doesn't need to be updated daily !-->
-- **Word count:** `05,724` <!-- TODO: This line should be updated daily !-->
-- **Character count (including spaces):** `039,080` <!-- TODO: This line should be updated daily !-->
-- **Character count (excluding spaces):** `034,188` <!-- TODO: This line should be updated daily !-->
-- **Size (in bytes):** `039,091` <!-- TODO: This line should be updated daily !-->
+- **File version:** `8 (2025, Wednesday, January 22nd at 02:41 pm PST)` <!-- TODO: This line should be updated daily !-->
+- **Line count (including blank lines and compiler line):** `1,136` <!-- This line doesn't need to be updated daily !-->
+- **Word count:** `06,934` <!-- TODO: This line should be updated daily !-->
+- **Character count (including spaces):** `047,733` <!-- TODO: This line should be updated daily !-->
+- **Character count (excluding spaces):** `041,528` <!-- TODO: This line should be updated daily !-->
+- **Size (in bytes):** `048,076` <!-- TODO: This line should be updated daily !-->
 - **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -705,10 +779,13 @@ _End of legal information section_
 
 <!-- /%/2001_FILE_HISTORY_SECTION.BEGIN\%\ !-->
 
-
 ## File history
 
 <details><summary><p lang="en"><b>Click/tap here to expand/collapse the file history section for this project</b></p></summary>
+
+History of this file.
+
+---
 
 ### Version 1 (2022, Sunday, November 20th at 09:30 pm PST)
 
@@ -973,6 +1050,32 @@ _End of legal information section_
 - - [x] Added an entry for version 7
 - [x] Added the `Footer` section
 - [ ] No other changes in version 7
+
+</details>
+
+---
+
+### Version 8 (2025, Wednesday, January 22nd at 02:41 pm PST)
+
+<details><summary><p lang="en"><b>Click/tap here to expand/collapse the file history entry for version 8</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _A small update, adding a new section, adding an image, and making small syntax changes. A new section was also added that will later carry over to other repositories._
+
+> Changes:
+
+- [X] Referenced the 3D android robot image
+- [x] Added the `This repository` section
+- [x] Small syntas changes
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 8
+- [x] Added the `Footer` section
+- [ ] No other changes in version 8
 
 </details>
 
