@@ -54,14 +54,22 @@ See also: [:octocat: `Android x32`](https://github.com/seanpm2001/Android-x32/) 
 - - [`03.7 - Android 8.0 (Oreo)`](#Android-8-0-Oreo)
 - - [`03.8 - Android 8.1 (Oreo)`](#Android-8-1-Oreo)
 - - [`03.9 - Android 9 (Pie)`](#Android-9-Pie)
-- - [`03.10 - Android 10 (Q)`](#Android-10-Q)
-- - [`03.11 - Android 11 (R)`](#Android-11-R)
-- - [`03.12 - Android 12 (S)`](#Android-12-S)
-- - [`03.13 - Android 12.1 (S)`](#Android-12-1-S)
-- - [`03.14 - Android 13 (T)`](#Android-13-T)
-- - [`03.15 - Android 14 (U)`](#Android-14-U)
-- - [`03.16 - Android 15 (V)`](#Android-15-V-Double-Vanilla)
-- - [`03.17 - Android 16 (W)`](#Android-16-W)
+- - [`03.10 - Android 9.1 (Pie) (Unofficial)`](#Android-9-1-Pie-Unofficial)
+- - [`03.11 - Android 10 (Q)`](#Android-10-Q)
+- - [`03.12 - Android 10.1 (Q) (Unofficial)`](#Android-10-1-Q-Unofficial)
+- - [`03.13 - Android 11 (R)`](#Android-11-R)
+- - [`03.14 - Android 11.1 (R) (Unofficial)`](#Android-11-1-R-Unofficial)
+- - [`03.15 - Android 12 (S)`](#Android-12-S)
+- - [`03.16 - Android 12.1 (S)`](#Android-12-1-S)
+- - [`03.17 - Android 13 (T)`](#Android-13-T)
+- - [`03.18 - Android 13.1 (T) (Unofficial)`](#Android-13-1-T-Unofficial)
+- - [`03.19 - Android 14 (U)`](#Android-14-U)
+- - [`03.20 - Android 14.1 (U) (Unofficial)`](#Android-14-1-U-Unofficial)
+- - [`03.21 - Android 15 (V) (Double Vanilla)`](#Android-15-V-Double-Vanilla)
+- - [`03.22 - Android 15.1 (V) (Double Vanilla) (Unofficial`](#Android-15-1-V-Double-Vanilla-Unofficial)
+- - [`03.23 - Android 16 (W)`](#Android-16-W)
+- - [`03.24 - Android 16.1 (W) (Unofficial)`](#Android-16-1-W-Unofficial)
+- - [`03.25 - Android 17 (X)`](#Android-17-X)
 - [`04.0 - Unsupported Android versions`](#Unsupported-Android-versions)
 - [`05.0 - Components`](#Components)
 - - [`05.1 - Candroid`](#Candroid)
@@ -95,6 +103,8 @@ See also: [:octocat: `Android x32`](https://github.com/seanpm2001/Android-x32/) 
 - - [`13.7 - Version 7 (2025, Tuesday, January 21st at 04:19 pm PST)`](#Version-7-2025-Tuesday-January-21st-at-04-19-pm-PST)
 - - [`13.8 - Version 8 (2025, Wednesday, January 22nd at 02:41 pm PST)`](#Version-8-2025-Wednesday-January-22nd-at-02-41-pm-PST)
 - - [`13.9 - Version 9 (2025, Thursday, January 23rd at 03:20 pm PST)`](#Version-9-2025-Thursday-January-23rd-at-03-20-pm-PST)
+- - [`13.10 - Version 10 (2025, Friday, January 24th at 04:14 pm PST)`](#Version-10-2025-Friday-January-24th-at-04-14-pm-PST)
+- - [`13.11 - Version 11 (2025, Saturday, January 25th at 04:25 pm PST)`](#Version-11-2025-Saturday-January-25th-at-04-25-pm-PST)
 - [`14.0 - Footer`](#Footer)
 - - [`14.9 - End of file`](#EOF)
 
@@ -405,6 +415,7 @@ Android 4.4 and below are x86 versions of Android, and are not covered by his pr
 - [ ] [:octocat: Vanilla](https://github.com/seanpm2001/Android-x64_Android5.0_Vanilla_Edition/)
 - [ ] [:octocat: DeGoogled](https://github.com/seanpm2001/Android-x64_Android5.0_DeGoogled_Edition/)
 - [ ] [:octocat: Compilation + LiveCD](https://github.com/seanpm2001/Android-x64_Android5.0_LiveCD_Edition/)
+- [ ] [:octocat: LiveCD 5A](https://github.com/seanpm2001/Android-x64_LiveCD_5A/)
 
 | 📖️ |
 |---|
@@ -413,6 +424,7 @@ Android 4.4 and below are x86 versions of Android, and are not covered by his pr
 - [ ] [:octocat: Vanilla](https://github.com/seanpm2001/Android-x64_Android5.0_Vanilla_Edition_Docs/)
 - [ ] [:octocat: DeGoogled](https://github.com/seanpm2001/Android-x64_Android5.0_DeGoogled_Edition_Docs/)
 - [ ] [:octocat: Compilation + LiveCD](https://github.com/seanpm2001/Android-x64_Android5.0_LiveCD_Edition_Docs/)
+- [ ] [:octocat: LiveCD 5A](https://github.com/seanpm2001/Android-x64_LiveCD_5A_Docs/)
 
 </details> <!-- End of Android 5.0 section !-->
 
@@ -433,6 +445,7 @@ Android 4.4 and below are x86 versions of Android, and are not covered by his pr
 - [ ] [:octocat: Vanilla](https://github.com/seanpm2001/Android-x64_Android5.1_Vanilla_Edition/)
 - [ ] [:octocat: DeGoogled](https://github.com/seanpm2001/Android-x64_Android5.1_DeGoogled_Edition/)
 - [ ] [:octocat: Compilation + LiveCD](https://github.com/seanpm2001/Android-x64_Android5.1_LiveCD_Edition/)
+- [ ] [:octocat: LiveCD 5B](https://github.com/seanpm2001/Android-x64_LiveCD_5B/)
 
 | 📖️ |
 |---|
@@ -441,6 +454,7 @@ Android 4.4 and below are x86 versions of Android, and are not covered by his pr
 - [ ] [:octocat: Vanilla](https://github.com/seanpm2001/Android-x64_Android5.1_Vanilla_Edition_Docs/)
 - [ ] [:octocat: DeGoogled](https://github.com/seanpm2001/Android-x64_Android5.1_DeGoogled_Edition_Docs/)
 - [ ] [:octocat: Compilation + LiveCD](https://github.com/seanpm2001/Android-x64_Android5.1_LiveCD_Edition_Docs/)
+- [ ] [:octocat: LiveCD 5B](https://github.com/seanpm2001/Android-x64_LiveCD_5B_Docs/)
 
 </details> <!-- End of Android 5.1 section !-->
 
@@ -461,6 +475,7 @@ Android 4.4 and below are x86 versions of Android, and are not covered by his pr
 - [ ] [:octocat: Vanilla](https://github.com/seanpm2001/Android-x64_Android6.0_Vanilla_Edition/)
 - [ ] [:octocat: DeGoogled](https://github.com/seanpm2001/Android-x64_Android6.0_DeGoogled_Edition/)
 - [ ] [:octocat: Compilation + LiveCD](https://github.com/seanpm2001/Android-x64_Android6.0_LiveCD_Edition/)
+- [ ] [:octocat: LiveCD 6A](https://github.com/seanpm2001/Android-x64_LiveCD_6A/)
 
 | 📖️ |
 |---|
@@ -469,6 +484,7 @@ Android 4.4 and below are x86 versions of Android, and are not covered by his pr
 - [ ] [:octocat: Vanilla](https://github.com/seanpm2001/Android-x64_Android6.0_Vanilla_Edition_Docs/)
 - [ ] [:octocat: DeGoogled](https://github.com/seanpm2001/Android-x64_Android6.0_DeGoogled_Edition_Docs/)
 - [ ] [:octocat: Compilation + LiveCD](https://github.com/seanpm2001/Android-x64_Android6.0_LiveCD_Edition_Docs/)
+- [ ] [:octocat: LiveCD 6A](https://github.com/seanpm2001/Android-x64_LiveCD_6A_Docs/)
 
 </details> <!-- End of Android 6.0 section !-->
 
@@ -489,6 +505,7 @@ Android 4.4 and below are x86 versions of Android, and are not covered by his pr
 - [ ] [:octocat: Vanilla](https://github.com/seanpm2001/Android-x64_Android6.1_Vanilla_Edition/)
 - [ ] [:octocat: DeGoogled](https://github.com/seanpm2001/Android-x64_Android6.1_DeGoogled_Edition/)
 - [ ] [:octocat: Compilation + LiveCD](https://github.com/seanpm2001/Android-x64_Android6.1_LiveCD_Edition/)
+- [ ] [:octocat: LiveCD 6B](https://github.com/seanpm2001/Android-x64_LiveCD_6B/)
 
 | 📖️ |
 |---|
@@ -497,6 +514,7 @@ Android 4.4 and below are x86 versions of Android, and are not covered by his pr
 - [ ] [:octocat: Vanilla](https://github.com/seanpm2001/Android-x64_Android6.1_Vanilla_Edition_Docs/)
 - [ ] [:octocat: DeGoogled](https://github.com/seanpm2001/Android-x64_Android6.1_DeGoogled_Edition_Docs/)
 - [ ] [:octocat: Compilation + LiveCD](https://github.com/seanpm2001/Android-x64_Android6.1_LiveCD_Edition_Docs/)
+- [ ] [:octocat: LiveCD 6B](https://github.com/seanpm2001/Android-x64_LiveCD_6B_Docs/)
 
 </details> <!-- End of Android 6.1 section !-->
 
@@ -517,6 +535,7 @@ Android 4.4 and below are x86 versions of Android, and are not covered by his pr
 - [ ] [:octocat: Vanilla](https://github.com/seanpm2001/Android-x64_Android7.0_Vanilla_Edition/)
 - [ ] [:octocat: DeGoogled](https://github.com/seanpm2001/Android-x64_Android7.0_DeGoogled_Edition/)
 - [ ] [:octocat: Compilation + LiveCD](https://github.com/seanpm2001/Android-x64_Android7.0_LiveCD_Edition/)
+- [ ] [:octocat: LiveCD 7A](https://github.com/seanpm2001/Android-x64_LiveCD_7A/)
 
 | 📖️ |
 |---|
@@ -525,6 +544,7 @@ Android 4.4 and below are x86 versions of Android, and are not covered by his pr
 - [ ] [:octocat: Vanilla](https://github.com/seanpm2001/Android-x64_Android7.0_Vanilla_Edition_Docs/)
 - [ ] [:octocat: DeGoogled](https://github.com/seanpm2001/Android-x64_Android7.0_DeGoogled_Edition_Docs/)
 - [ ] [:octocat: Compilation + LiveCD](https://github.com/seanpm2001/Android-x64_Android7.0_LiveCD_Edition_Docs/)
+- [ ] [:octocat: LiveCD 7A](https://github.com/seanpm2001/Android-x64_LiveCD_7A_Docs/)
 
 </details> <!-- End of Android 7.0 section !-->
 
@@ -545,6 +565,7 @@ Android 4.4 and below are x86 versions of Android, and are not covered by his pr
 - [ ] [:octocat: Vanilla](https://github.com/seanpm2001/Android-x64_Android7.1_Vanilla_Edition/)
 - [ ] [:octocat: DeGoogled](https://github.com/seanpm2001/Android-x64_Android7.1_DeGoogled_Edition/)
 - [ ] [:octocat: Compilation + LiveCD](https://github.com/seanpm2001/Android-x64_Android7.1_LiveCD_Edition/)
+- [ ] [:octocat: LiveCD 7B](https://github.com/seanpm2001/Android-x64_LiveCD_7B/)
 
 | 📖️ |
 |---|
@@ -553,6 +574,7 @@ Android 4.4 and below are x86 versions of Android, and are not covered by his pr
 - [ ] [:octocat: Vanilla](https://github.com/seanpm2001/Android-x64_Android7.1_Vanilla_Edition_Docs/)
 - [ ] [:octocat: DeGoogled](https://github.com/seanpm2001/Android-x64_Android7.1_DeGoogled_Edition_Docs/)
 - [ ] [:octocat: Compilation + LiveCD](https://github.com/seanpm2001/Android-x64_Android7.1_LiveCD_Edition_Docs/)
+- [ ] [:octocat: LiveCD 7B](https://github.com/seanpm2001/Android-x64_LiveCD_7B_Docs/)
 
 </details> <!-- End of Android 7.1 section !-->
 
@@ -573,6 +595,7 @@ Android 4.4 and below are x86 versions of Android, and are not covered by his pr
 - [ ] [:octocat: Vanilla](https://github.com/seanpm2001/Android-x64_Android8.0_Vanilla_Edition/)
 - [ ] [:octocat: DeGoogled](https://github.com/seanpm2001/Android-x64_Android8.0_DeGoogled_Edition/)
 - [ ] [:octocat: Compilation + LiveCD](https://github.com/seanpm2001/Android-x64_Android8.0_LiveCD_Edition/)
+- [ ] [:octocat: LiveCD 8A](https://github.com/seanpm2001/Android-x64_LiveCD_8A/)
 
 | 📖️ |
 |---|
@@ -581,6 +604,7 @@ Android 4.4 and below are x86 versions of Android, and are not covered by his pr
 - [ ] [:octocat: Vanilla](https://github.com/seanpm2001/Android-x64_Android8.0_Vanilla_Edition_Docs/)
 - [ ] [:octocat: DeGoogled](https://github.com/seanpm2001/Android-x64_Android8.0_DeGoogled_Edition_Docs/)
 - [ ] [:octocat: Compilation + LiveCD](https://github.com/seanpm2001/Android-x64_Android8.0_LiveCD_Edition_Docs/)
+- [ ] [:octocat: LiveCD 8A](https://github.com/seanpm2001/Android-x64_LiveCD_8A_Docs/)
 
 </details> <!-- End of Android 8.0 section !-->
 
@@ -629,6 +653,7 @@ Android 4.4 and below are x86 versions of Android, and are not covered by his pr
 - [ ] [:octocat: Vanilla](https://github.com/seanpm2001/Android-x64_Android9_Vanilla_Edition/)
 - [ ] [:octocat: DeGoogled](https://github.com/seanpm2001/Android-x64_Android9_DeGoogled_Edition/)
 - [ ] [:octocat: Compilation + LiveCD](https://github.com/seanpm2001/Android-x64_Android9_LiveCD_Edition/)
+- [ ] [:octocat: LiveCD 9A](https://github.com/seanpm2001/Android-x64_LiveCD_9A/)
 
 | 📖️ |
 |---|
@@ -637,8 +662,41 @@ Android 4.4 and below are x86 versions of Android, and are not covered by his pr
 - [ ] [:octocat: Vanilla](https://github.com/seanpm2001/Android-x64_Android9_Vanilla_Edition_Docs/)
 - [ ] [:octocat: DeGoogled](https://github.com/seanpm2001/Android-x64_Android9_DeGoogled_Edition_Docs/)
 - [ ] [:octocat: Compilation + LiveCD](https://github.com/seanpm2001/Android-x64_Android9_LiveCD_Edition_Docs/)
+- [ ] [:octocat: LiveCD 9A](https://github.com/seanpm2001/Android-x64_LiveCD_9A_Docs/)
 
 </details> <!-- End of Android 9 section !-->
+
+---
+
+### Android 9.1 (Pie) (Unofficial)
+
+<details open><summary><p><b>Click/tap here to expand/collapse the Android 9.1 (Pie) section</b></p></summary>
+
+<img alt="Android 9 logo failed to load. Click/tap here to attempt to view it" src="/Graphics/Google/Android/9/SVG/Android_P_logo.svg" width="256" height="256" title="Android 9.0 (Pie) logo"/>
+
+<!-- ![/Graphics/Google/Android/9/SVG/Android_P_logo.svg](/Graphics/Google/Android/9/SVG/Android_P_logo.svg) !-->
+
+> **Note** These versions (9.1.x) are unofficial.
+
+| 💾️ |
+|---|
+
+- [ ] [:octocat: Heavy](https://github.com/seanpm2001/Android-x64_Android9.1_Heavy_Edition/)
+- [ ] [:octocat: Vanilla](https://github.com/seanpm2001/Android-x64_Android9.1_Vanilla_Edition/)
+- [ ] [:octocat: DeGoogled](https://github.com/seanpm2001/Android-x64_Android9.1_DeGoogled_Edition/)
+- [ ] [:octocat: Compilation + LiveCD](https://github.com/seanpm2001/Android-x64_Android9.1_LiveCD_Edition/)
+- [ ] [:octocat: LiveCD 9B](https://github.com/seanpm2001/Android-x64_LiveCD_9B/)
+
+| 📖️ |
+|---|
+
+- [ ] [:octocat: Heavy](https://github.com/seanpm2001/Android-x64_Android9.1_Heavy_Edition_Docs/)
+- [ ] [:octocat: Vanilla](https://github.com/seanpm2001/Android-x64_Android9.1_Vanilla_Edition_Docs/)
+- [ ] [:octocat: DeGoogled](https://github.com/seanpm2001/Android-x64_Android9.1_DeGoogled_Edition_Docs/)
+- [ ] [:octocat: Compilation + LiveCD](https://github.com/seanpm2001/Android-x64_Android9.1_LiveCD_Edition_Docs/)
+- [ ] [:octocat: LiveCD 9B](https://github.com/seanpm2001/Android-x64_LiveCD_9B_Docs/)
+
+</details> <!-- End of Android 9.1 section !-->
 
 ---
 
@@ -657,6 +715,7 @@ Android 4.4 and below are x86 versions of Android, and are not covered by his pr
 - [ ] [:octocat: Vanilla](https://github.com/seanpm2001/Android-x64_Android10_Vanilla_Edition/)
 - [ ] [:octocat: DeGoogled](https://github.com/seanpm2001/Android-x64_Android10_DeGoogled_Edition/)
 - [ ] [:octocat: Compilation + LiveCD](https://github.com/seanpm2001/Android-x64_Android10_LiveCD_Edition/)
+- [ ] [:octocat: LiveCD 10A](https://github.com/seanpm2001/Android-x64_LiveCD_10A/)
 
 | 📖️ |
 |---|
@@ -665,8 +724,41 @@ Android 4.4 and below are x86 versions of Android, and are not covered by his pr
 - [ ] [:octocat: Vanilla](https://github.com/seanpm2001/Android-x64_Android10_Vanilla_Edition_Docs/)
 - [ ] [:octocat: DeGoogled](https://github.com/seanpm2001/Android-x64_Android10_DeGoogled_Edition_Docs/)
 - [ ] [:octocat: Compilation + LiveCD](https://github.com/seanpm2001/Android-x64_Android10_LiveCD_Edition_Docs/)
+- [ ] [:octocat: LiveCD 10A](https://github.com/seanpm2001/Android-x64_LiveCD_10A_Docs/)
 
 </details> <!-- End of Android 10 section !-->
+
+---
+
+### Android 10.1 (Q) (Unofficial)
+
+<details open><summary><p><b>Click/tap here to expand/collapse the Android 10.1 (Q) section</b></p></summary>
+
+<img alt="Android 10 logo failed to load. Click/tap here to attempt to view it" src="/Graphics/Google/Android/10/SVG/AndroidQlogo.svg" width="256" height="256" title="Android 10.0 (Q) logo"/>
+
+<!-- ![/Graphics/Google/Android/10/SVG/AndroidQlogo.svg](/Graphics/Google/Android/10/SVG/AndroidQlogo.svg) !-->
+
+> **Note** These versions (10.1.x) are unofficial.
+
+| 💾️ |
+|---|
+
+- [ ] [:octocat: Heavy](https://github.com/seanpm2001/Android-x64_Android10.1_Heavy_Edition/)
+- [ ] [:octocat: Vanilla](https://github.com/seanpm2001/Android-x64_Android10.1_Vanilla_Edition/)
+- [ ] [:octocat: DeGoogled](https://github.com/seanpm2001/Android-x64_Android10.1_DeGoogled_Edition/)
+- [ ] [:octocat: Compilation + LiveCD](https://github.com/seanpm2001/Android-x64_Android10.1_LiveCD_Edition/)
+- [ ] [:octocat: LiveCD 10B](https://github.com/seanpm2001/Android-x64_LiveCD_10B/)
+
+| 📖️ |
+|---|
+
+- [ ] [:octocat: Heavy](https://github.com/seanpm2001/Android-x64_Android10.1_Heavy_Edition_Docs/)
+- [ ] [:octocat: Vanilla](https://github.com/seanpm2001/Android-x64_Android10.1_Vanilla_Edition_Docs/)
+- [ ] [:octocat: DeGoogled](https://github.com/seanpm2001/Android-x64_Android10.1_DeGoogled_Edition_Docs/)
+- [ ] [:octocat: Compilation + LiveCD](https://github.com/seanpm2001/Android-x64_Android10.1_LiveCD_Edition_Docs/)
+- [ ] [:octocat: LiveCD 10B](https://github.com/seanpm2001/Android-x64_LiveCD_10B_Docs/)
+
+</details> <!-- End of Android 10.1 section !-->
 
 ---
 
@@ -685,6 +777,7 @@ Android 4.4 and below are x86 versions of Android, and are not covered by his pr
 - [ ] [:octocat: Vanilla](https://github.com/seanpm2001/Android-x64_Android11_Vanilla_Edition/)
 - [ ] [:octocat: DeGoogled](https://github.com/seanpm2001/Android-x64_Android11_DeGoogled_Edition/)
 - [ ] [:octocat: Compilation + LiveCD](https://github.com/seanpm2001/Android-x64_Android11_LiveCD_Edition/)
+- [ ] [:octocat: LiveCD 11A](https://github.com/seanpm2001/Android-x64_LiveCD_11A/)
 
 | 📖️ |
 |---|
@@ -693,8 +786,41 @@ Android 4.4 and below are x86 versions of Android, and are not covered by his pr
 - [ ] [:octocat: Vanilla](https://github.com/seanpm2001/Android-x64_Android11_Vanilla_Edition_Docs/)
 - [ ] [:octocat: DeGoogled](https://github.com/seanpm2001/Android-x64_Android11_DeGoogled_Edition_Docs/)
 - [ ] [:octocat: Compilation + LiveCD](https://github.com/seanpm2001/Android-x64_Android11_LiveCD_Edition_Docs/)
+- [ ] [:octocat: LiveCD 11A](https://github.com/seanpm2001/Android-x64_LiveCD_11A_Docs/)
 
 </details> <!-- End of Android 11 section !-->
+
+---
+
+### Android 11.1 (R) (Unofficial)
+
+<details open><summary><p><b>Click/tap here to expand/collapse the Android 11.1 (R) section</b></p></summary>
+
+<img alt="Android 11 logo failed to load. Click/tap here to attempt to view it" src="/Graphics/Google/Android/11/SVG/Android_11_Developer_Preview_logo.svg" width="256" height="256" title="Android 11.0 (R) logo"/>
+
+<!-- ![/Graphics/Google/Android/11/SVG/Android_11_Developer_Preview_logo.svg](/Graphics/Google/Android/11/SVG/Android_11_Developer_Preview_logo.svg) !-->
+
+> **Note** These versions (11.1.x) are unofficial.
+
+| 💾️ |
+|---|
+
+- [ ] [:octocat: Heavy](https://github.com/seanpm2001/Android-x64_Android11.1_Heavy_Edition/)
+- [ ] [:octocat: Vanilla](https://github.com/seanpm2001/Android-x64_Android11.1_Vanilla_Edition/)
+- [ ] [:octocat: DeGoogled](https://github.com/seanpm2001/Android-x64_Android11.1_DeGoogled_Edition/)
+- [ ] [:octocat: Compilation + LiveCD](https://github.com/seanpm2001/Android-x64_Android11.1_LiveCD_Edition/)
+- [ ] [:octocat: LiveCD 11B](https://github.com/seanpm2001/Android-x64_LiveCD_11B/)
+
+| 📖️ |
+|---|
+
+- [ ] [:octocat: Heavy](https://github.com/seanpm2001/Android-x64_Android11.1_Heavy_Edition_Docs/)
+- [ ] [:octocat: Vanilla](https://github.com/seanpm2001/Android-x64_Android11.1_Vanilla_Edition_Docs/)
+- [ ] [:octocat: DeGoogled](https://github.com/seanpm2001/Android-x64_Android11.1_DeGoogled_Edition_Docs/)
+- [ ] [:octocat: Compilation + LiveCD](https://github.com/seanpm2001/Android-x64_Android11.1_LiveCD_Edition_Docs/)
+- [ ] [:octocat: LiveCD 11B](https://github.com/seanpm2001/Android-x64_LiveCD_11B_Docs/)
+
+</details> <!-- End of Android 11.1 section !-->
 
 ---
 
@@ -713,6 +839,7 @@ Android 4.4 and below are x86 versions of Android, and are not covered by his pr
 - [ ] [:octocat: Vanilla](https://github.com/seanpm2001/Android-x64_Android12_Vanilla_Edition/)
 - [ ] [:octocat: DeGoogled](https://github.com/seanpm2001/Android-x64_Android12_DeGoogled_Edition/)
 - [ ] [:octocat: Compilation + LiveCD](https://github.com/seanpm2001/Android-x64_Android12_LiveCD_Edition/)
+- [ ] [:octocat: LiveCD 12A](https://github.com/seanpm2001/Android-x64_LiveCD_12A/)
 
 | 📖️ |
 |---|
@@ -721,6 +848,7 @@ Android 4.4 and below are x86 versions of Android, and are not covered by his pr
 - [ ] [:octocat: Vanilla](https://github.com/seanpm2001/Android-x64_Android12_Vanilla_Edition_Docs/)
 - [ ] [:octocat: DeGoogled](https://github.com/seanpm2001/Android-x64_Android12_DeGoogled_Edition_Docs/)
 - [ ] [:octocat: Compilation + LiveCD](https://github.com/seanpm2001/Android-x64_Android12_LiveCD_Edition_Docs/)
+- [ ] [:octocat: LiveCD 12A](https://github.com/seanpm2001/Android-x64_LiveCD_12A_Docs/)
 
 </details> <!-- End of Android 12.0 section !-->
 
@@ -734,6 +862,8 @@ Android 4.4 and below are x86 versions of Android, and are not covered by his pr
 
 <!-- ![/Graphics/Google/Android/12/SVG/Android_12_Developer_Preview_logo.svg](/Graphics/Google/Android/12/SVG/Android_12_Developer_Preview_logo.svg) !-->
 
+> **Note** This is based on an official version. The x.0 and x.1 versioning scheme officially stopped with Android 9, but Android 12 was one of the recent exceptions.
+
 | 💾️ |
 |---|
 
@@ -741,6 +871,7 @@ Android 4.4 and below are x86 versions of Android, and are not covered by his pr
 - [ ] [:octocat: Vanilla](https://github.com/seanpm2001/Android-x64_Android12.1_Vanilla_Edition/)
 - [ ] [:octocat: DeGoogled](https://github.com/seanpm2001/Android-x64_Android12.1_DeGoogled_Edition/)
 - [ ] [:octocat: Compilation + LiveCD](https://github.com/seanpm2001/Android-x64_Android12.1_LiveCD_Edition/)
+- [ ] [:octocat: LiveCD 12B](https://github.com/seanpm2001/Android-x64_LiveCD_12B/)
 
 | 📖️ |
 |---|
@@ -749,6 +880,7 @@ Android 4.4 and below are x86 versions of Android, and are not covered by his pr
 - [ ] [:octocat: Vanilla](https://github.com/seanpm2001/Android-x64_Android12.1_Vanilla_Edition_Docs/)
 - [ ] [:octocat: DeGoogled](https://github.com/seanpm2001/Android-x64_Android12.1_DeGoogled_Edition_Docs/)
 - [ ] [:octocat: Compilation + LiveCD](https://github.com/seanpm2001/Android-x64_Android12.1_LiveCD_Edition_Docs/)
+- [ ] [:octocat: LiveCD 12B](https://github.com/seanpm2001/Android-x64_LiveCD_12B_Docs/)
 
 </details> <!-- End of Android 12.1 section !-->
 
@@ -769,6 +901,7 @@ Android 4.4 and below are x86 versions of Android, and are not covered by his pr
 - [ ] [:octocat: Vanilla](https://github.com/seanpm2001/Android-x64_Android13_Vanilla_Edition/)
 - [ ] [:octocat: DeGoogled](https://github.com/seanpm2001/Android-x64_Android13_DeGoogled_Edition/)
 - [ ] [:octocat: Compilation + LiveCD](https://github.com/seanpm2001/Android-x64_Android13_LiveCD_Edition/)
+- [ ] [:octocat: LiveCD 13A](https://github.com/seanpm2001/Android-x64_LiveCD_13A/)
 
 | 📖️ |
 |---|
@@ -777,8 +910,41 @@ Android 4.4 and below are x86 versions of Android, and are not covered by his pr
 - [ ] [:octocat: Vanilla](https://github.com/seanpm2001/Android-x64_Android13_Vanilla_Edition_Docs/)
 - [ ] [:octocat: DeGoogled](https://github.com/seanpm2001/Android-x64_Android13_DeGoogled_Edition_Docs/)
 - [ ] [:octocat: Compilation + LiveCD](https://github.com/seanpm2001/Android-x64_Android13_LiveCD_Edition_Docs/)
+- [ ] [:octocat: LiveCD 13A](https://github.com/seanpm2001/Android-x64_LiveCD_13A_Docs/)
 
 </details> <!-- End of Android 13 section !-->
+
+---
+
+### Android 13.1 (T) (Unofficial)
+
+<details open><summary><p><b>Click/tap here to expand/collapse the Android 13.1 (T) section</b></p></summary>
+
+<img alt="Android 13 logo failed to load. Click/tap here to attempt to view it" src="/Graphics/Google/Android/13/SVG/Android_13_Developer_Preview_logo.svg" width="256" height="256" title="Android 13.0 (T) logo"/>
+
+<!-- ![/Graphics/Google/Android/13/SVG/Android_13_Developer_Preview_logo.svg](/Graphics/Google/Android/13/SVG/Android_13_Developer_Preview_logo.svg) !-->
+
+> **Note** These versions (13.1.x) are unofficial.
+
+| 💾️ |
+|---|
+
+- [ ] [:octocat: Heavy](https://github.com/seanpm2001/Android-x64_Android13.1_Heavy_Edition/)
+- [ ] [:octocat: Vanilla](https://github.com/seanpm2001/Android-x64_Android13.1_Vanilla_Edition/)
+- [ ] [:octocat: DeGoogled](https://github.com/seanpm2001/Android-x64_Android13.1_DeGoogled_Edition/)
+- [ ] [:octocat: Compilation + LiveCD](https://github.com/seanpm2001/Android-x64_Android13.1_LiveCD_Edition/)
+- [ ] [:octocat: LiveCD 13B](https://github.com/seanpm2001/Android-x64_LiveCD_13B/)
+
+| 📖️ |
+|---|
+
+- [ ] [:octocat: Heavy](https://github.com/seanpm2001/Android-x64_Android13.1_Heavy_Edition_Docs/)
+- [ ] [:octocat: Vanilla](https://github.com/seanpm2001/Android-x64_Android13.1_Vanilla_Edition_Docs/)
+- [ ] [:octocat: DeGoogled](https://github.com/seanpm2001/Android-x64_Android13.1_DeGoogled_Edition_Docs/)
+- [ ] [:octocat: Compilation + LiveCD](https://github.com/seanpm2001/Android-x64_Android13.1_LiveCD_Edition_Docs/)
+- [ ] [:octocat: LiveCD 13B](https://github.com/seanpm2001/Android-x64_LiveCD_13B_Docs/)
+
+</details> <!-- End of Android 13.1 section !-->
 
 ---
 
@@ -797,6 +963,7 @@ Android 4.4 and below are x86 versions of Android, and are not covered by his pr
 - [ ] [:octocat: Vanilla](https://github.com/seanpm2001/Android-x64_Android14_Vanilla_Edition/)
 - [ ] [:octocat: DeGoogled](https://github.com/seanpm2001/Android-x64_Android14_DeGoogled_Edition/)
 - [ ] [:octocat: Compilation + LiveCD](https://github.com/seanpm2001/Android-x64_Android14_LiveCD_Edition/)
+- [ ] [:octocat: LiveCD 14A](https://github.com/seanpm2001/Android-x64_LiveCD_14A/)
 
 | 📖️ |
 |---|
@@ -805,8 +972,42 @@ Android 4.4 and below are x86 versions of Android, and are not covered by his pr
 - [ ] [:octocat: Vanilla](https://github.com/seanpm2001/Android-x64_Android14_Vanilla_Edition_Docs/)
 - [ ] [:octocat: DeGoogled](https://github.com/seanpm2001/Android-x64_Android14_DeGoogled_Edition_Docs/)
 - [ ] [:octocat: Compilation + LiveCD](https://github.com/seanpm2001/Android-x64_Android14_LiveCD_Edition_Docs/)
+- [ ] [:octocat: LiveCD 14A](https://github.com/seanpm2001/Android-x64_LiveCD_14A_Docs/)
 
 </details> <!-- End of Android 14 section !-->
+
+
+---
+
+### Android 14.1 (U) (Unofficial)
+
+<details open><summary><p><b>Click/tap here to expand/collapse the Android 14.1 (U) section</b></p></summary>
+
+<img alt="Android 14 logo failed to load. Click/tap here to attempt to view it" src="/Graphics/Google/Android/14/SVG/Android_14_official_logo.svg" width="256" height="256" title="Android 14.0 (U) logo"/>
+
+<!-- ![/Graphics/Google/Android/14/SVG/Android_14_official_logo.svg](/Graphics/Google/Android/14/SVG/Android_14_official_logo.svg) !-->
+
+> **Note** These versions (14.1.x) are unofficial.
+
+| 💾️ |
+|---|
+
+- [ ] [:octocat: Heavy](https://github.com/seanpm2001/Android-x64_Android14.1_Heavy_Edition/)
+- [ ] [:octocat: Vanilla](https://github.com/seanpm2001/Android-x64_Android14.1_Vanilla_Edition/)
+- [ ] [:octocat: DeGoogled](https://github.com/seanpm2001/Android-x64_Android14.1_DeGoogled_Edition/)
+- [ ] [:octocat: Compilation + LiveCD](https://github.com/seanpm2001/Android-x64_Android14.1_LiveCD_Edition/)
+- [ ] [:octocat: LiveCD 14B](https://github.com/seanpm2001/Android-x64_LiveCD_14B/)
+
+| 📖️ |
+|---|
+
+- [ ] [:octocat: Heavy](https://github.com/seanpm2001/Android-x64_Android14.1_Heavy_Edition_Docs/)
+- [ ] [:octocat: Vanilla](https://github.com/seanpm2001/Android-x64_Android14.1_Vanilla_Edition_Docs/)
+- [ ] [:octocat: DeGoogled](https://github.com/seanpm2001/Android-x64_Android14.1_DeGoogled_Edition_Docs/)
+- [ ] [:octocat: Compilation + LiveCD](https://github.com/seanpm2001/Android-x64_Android14.1_LiveCD_Edition_Docs/)
+- [ ] [:octocat: LiveCD 14B](https://github.com/seanpm2001/Android-x64_LiveCD_14B_Docs/)
+
+</details> <!-- End of Android 14.1 section !-->
 
 ---
 
@@ -825,6 +1026,7 @@ Android 4.4 and below are x86 versions of Android, and are not covered by his pr
 - [ ] [:octocat: Vanilla](https://github.com/seanpm2001/Android-x64_Android15_Vanilla_Edition/)
 - [ ] [:octocat: DeGoogled](https://github.com/seanpm2001/Android-x64_Android15_DeGoogled_Edition/)
 - [ ] [:octocat: Compilation + LiveCD](https://github.com/seanpm2001/Android-x64_Android15_LiveCD_Edition/)
+- [ ] [:octocat: LiveCD 15A](https://github.com/seanpm2001/Android-x64_LiveCD_15A/)
 
 | 📖️ |
 |---|
@@ -833,8 +1035,41 @@ Android 4.4 and below are x86 versions of Android, and are not covered by his pr
 - [ ] [:octocat: Vanilla](https://github.com/seanpm2001/Android-x64_Android15_Vanilla_Edition_Docs/)
 - [ ] [:octocat: DeGoogled](https://github.com/seanpm2001/Android-x64_Android15_DeGoogled_Edition_Docs/)
 - [ ] [:octocat: Compilation + LiveCD](https://github.com/seanpm2001/Android-x64_Android15_LiveCD_Edition_Docs/)
+- [ ] [:octocat: LiveCD 15A](https://github.com/seanpm2001/Android-x64_LiveCD_15A_Docs/)
 
 </details> <!-- End of Android 15 section !-->
+
+---
+
+### Android 15.1 (V) (Double Vanilla) (Unofficial)
+
+<details open><summary><p><b>Click/tap here to expand/collapse the Android 15.1 (V) section</b></p></summary>
+
+<img alt="Android 15 logo failed to load. Click/tap here to attempt to view it" src="/Graphics/Google/Android/15/SVG/Android_15_Developer_Preview_logo.svg" width="256" height="256" title="Android 15.0 (V) logo"/>
+
+<!-- ![/Graphics/Google/Android/15/SVG/Android_15_Developer_Preview_logo.svg](/Graphics/Google/Android/15/SVG/Android_15_Developer_Preview_logo.svg) !-->
+
+> **Note** These versions (15.1.x) are unofficial.
+
+| 💾️ |
+|---|
+
+- [ ] [:octocat: Heavy](https://github.com/seanpm2001/Android-x64_Android15.1_Heavy_Edition/)
+- [ ] [:octocat: Vanilla](https://github.com/seanpm2001/Android-x64_Android15.1_Vanilla_Edition/)
+- [ ] [:octocat: DeGoogled](https://github.com/seanpm2001/Android-x64_Android15.1_DeGoogled_Edition/)
+- [ ] [:octocat: Compilation + LiveCD](https://github.com/seanpm2001/Android-x64_Android15.1_LiveCD_Edition/)
+- [ ] [:octocat: LiveCD 15B](https://github.com/seanpm2001/Android-x64_LiveCD_15B/)
+
+| 📖️ |
+|---|
+
+- [ ] [:octocat: Heavy](https://github.com/seanpm2001/Android-x64_Android15.1_Heavy_Edition_Docs/)
+- [ ] [:octocat: Vanilla](https://github.com/seanpm2001/Android-x64_Android15.1_Vanilla_Edition_Docs/)
+- [ ] [:octocat: DeGoogled](https://github.com/seanpm2001/Android-x64_Android15.1_DeGoogled_Edition_Docs/)
+- [ ] [:octocat: Compilation + LiveCD](https://github.com/seanpm2001/Android-x64_Android15.1_LiveCD_Edition_Docs/)
+- [ ] [:octocat: LiveCD 15B](https://github.com/seanpm2001/Android-x64_LiveCD_15B_Docs/)
+
+</details> <!-- End of Android 15.1 section !-->
 
 ---
 
@@ -853,6 +1088,7 @@ Android 4.4 and below are x86 versions of Android, and are not covered by his pr
 - [ ] [:octocat: Vanilla](https://github.com/seanpm2001/Android-x64_Android16_Vanilla_Edition/)
 - [ ] [:octocat: DeGoogled](https://github.com/seanpm2001/Android-x64_Android16_DeGoogled_Edition/)
 - [ ] [:octocat: Compilation + LiveCD](https://github.com/seanpm2001/Android-x64_Android16_LiveCD_Edition/)
+- [ ] [:octocat: LiveCD 16A](https://github.com/seanpm2001/Android-x64_LiveCD_16A/)
 
 | 📖️ |
 |---|
@@ -861,8 +1097,53 @@ Android 4.4 and below are x86 versions of Android, and are not covered by his pr
 - [ ] [:octocat: Vanilla](https://github.com/seanpm2001/Android-x64_Android16_Vanilla_Edition_Docs/)
 - [ ] [:octocat: DeGoogled](https://github.com/seanpm2001/Android-x64_Android16_DeGoogled_Edition_Docs/)
 - [ ] [:octocat: Compilation + LiveCD](https://github.com/seanpm2001/Android-x64_Android16_LiveCD_Edition_Docs/)
+- [ ] [:octocat: LiveCD 16A](https://github.com/seanpm2001/Android-x64_LiveCD_16A_Docs/)
 
 </details> <!-- End of Android 16 section !-->
+
+---
+
+### Android 16.1 (W) (Unofficial)
+
+<details open><summary><p><b>Click/tap here to expand/collapse the Android 16.1 (W) section</b></p></summary>
+
+<img alt="Android 16 logo failed to load. Click/tap here to attempt to view it" src="/Graphics/Google/Android/16/SVG/Android_16_Developer_Preview_Logo.svg" width="256" height="256" title="Android 16.0 (W) logo"/>
+
+<!-- ![/Graphics/Google/Android/16/SVG/Android_16_Developer_Preview_Logo.svg](/Graphics/Google/Android/16/SVG/Android_16_Developer_Preview_Logo.svg) !-->
+
+> **Note** These versions (16.1.x) are unofficial.
+
+| 💾️ |
+|---|
+
+- [ ] [:octocat: Heavy](https://github.com/seanpm2001/Android-x64_Android16.1_Heavy_Edition/)
+- [ ] [:octocat: Vanilla](https://github.com/seanpm2001/Android-x64_Android16.1_Vanilla_Edition/)
+- [ ] [:octocat: DeGoogled](https://github.com/seanpm2001/Android-x64_Android16.1_DeGoogled_Edition/)
+- [ ] [:octocat: Compilation + LiveCD](https://github.com/seanpm2001/Android-x64_Android16.1_LiveCD_Edition/)
+- [ ] [:octocat: LiveCD 16B](https://github.com/seanpm2001/Android-x64_LiveCD_16B/)
+
+| 📖️ |
+|---|
+
+- [ ] [:octocat: Heavy](https://github.com/seanpm2001/Android-x64_Android16.1_Heavy_Edition_Docs/)
+- [ ] [:octocat: Vanilla](https://github.com/seanpm2001/Android-x64_Android16.1_Vanilla_Edition_Docs/)
+- [ ] [:octocat: DeGoogled](https://github.com/seanpm2001/Android-x64_Android16.1_DeGoogled_Edition_Docs/)
+- [ ] [:octocat: Compilation + LiveCD](https://github.com/seanpm2001/Android-x64_Android16.1_LiveCD_Edition_Docs/)
+- [ ] [:octocat: LiveCD 16B](https://github.com/seanpm2001/Android-x64_LiveCD_16B_Docs/)
+
+</details> <!-- End of Android 16.1 section !-->
+
+---
+
+### Android 17 (X)
+
+<details open><summary><p><b>Click/tap here to expand/collapse the Android 17.0 (X) section</b></p></summary>
+
+<img alt="Android 3D Robot mascot failed to load. Click/tap here to attempt to view it" src="/Android_Logo_HighDetail.png" width="256" height="256" title="Android Placeholder logo"/>
+
+Android 17 has not yet been announced (as of 2025, Saturday, January 25th)
+
+</details> <!-- End of Android 17.0 section !-->
 
 ---
 
@@ -1188,12 +1469,12 @@ _End of legal information section_
     <td>
 
 - **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `10 (2025, Friday, January 24th at 04:14 pm PST)` <!-- TODO: This line should be updated daily !-->
-- **Line count (including blank lines and compiler line):** `1,626` <!-- This line doesn't need to be updated daily !-->
-- **Word count:** `11,152` <!-- TODO: This line should be updated daily !-->
-- **Character count (including spaces):** `078,510` <!-- TODO: This line should be updated daily !-->
-- **Character count (excluding spaces):** `068,856` <!-- TODO: This line should be updated daily !-->
-- **Size (in bytes):** `081,610` <!-- TODO: This line should be updated daily !-->
+- **File version:** `11 (2025, Saturday, January 25th at 04:25 pm PST)` <!-- TODO: This line should be updated daily !-->
+- **Line count (including blank lines and compiler line):** `1,936` <!-- This line doesn't need to be updated daily !-->
+- **Word count:** `13,494` <!-- TODO: This line should be updated daily !-->
+- **Character count (including spaces):** `095,243` <!-- TODO: This line should be updated daily !-->
+- **Character count (excluding spaces):** `084,117` <!-- TODO: This line should be updated daily !-->
+- **Size (in bytes):** `098,413` <!-- TODO: This line should be updated daily !-->
 - **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -1507,7 +1788,6 @@ History of this file.
 - - [x] Updated the line count
 - [x] Updated the `file history` section
 - - [x] Added an entry for version 8
-- [x] Added the `Footer` section
 - [ ] No other changes in version 8
 
 </details> <!-- End of file history: V8 !-->
@@ -1538,7 +1818,6 @@ History of this file.
 - - [x] Updated the line count
 - [x] Updated the `file history` section
 - - [x] Added an entry for version 9
-- [x] Added the `Footer` section
 - [ ] No other changes in version 9
 
 </details> <!-- End of file history: V9 !-->
@@ -1564,10 +1843,41 @@ History of this file.
 - - [x] Updated the line count
 - [x] Updated the `file history` section
 - - [x] Added an entry for version 10
-- [x] Added the `Footer` section
 - [ ] No other changes in version 10
 
 </details> <!-- End of file history: V10 !-->
+
+---
+
+## Version 11 (2025, Saturday, January 25th at 04:25 pm PST)
+
+<details><summary><p lang="en"><b>Click/tap here to expand/collapse the file history entry for version 11</b></p></summary>
+
+**This version was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _A minor update, filling in some gaps._
+
+> Changes:
+
+- [x] Updated the `Table of contents` section
+- [x] Added the `Android 9.1 (Pie) (Unofficial)` section
+- [x] Added the `Android 10.1 (Q) (Unofficial)` section
+- [x] Added the `Android 11.1 (R) (Unofficial)` section
+- [x] Updated the `Android 12.1 (S)` section
+- [x] Added the `Android 13.1 (T) (Unofficial)` section
+- [x] Added the `Android 14.1 (U) (Unofficial)` section
+- [x] Added the `Android 15.1 (V) (Double Vanilla) (Unofficial)` section
+- [x] Added the `Android 16.1 (W) (Unofficial)` section
+- [x] Added the `Android 17 (X)` section
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- [x] Added the `Footer` section
+- [ ] No other changes in version 11
+
+</details> <!-- End of file history: V11 !-->
 
 <!-- /%/2001_FILE_HISTORY_SECTION.END\%\ !-->
 
