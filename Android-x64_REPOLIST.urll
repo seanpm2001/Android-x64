@@ -2,10 +2,10 @@
 //// Android-x64_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Android x64 project repositories by @seanpm2001
-//// As of 2025, Thursday, January 23rd
+//// As of 2025, Saturday, January 25th
 
 //// ----------------------------------------------------- \\\\
-//// Android x64 Project (151)
+//// Android x64 Project (157)
 //// ----------------------------------------------------- \\\\
 
 //// Android x64 Project core (1)
@@ -138,7 +138,7 @@ https://github.com/seanpm2001/Android-x64_Android9_Vanilla_Edition_Docs
 https://github.com/seanpm2001/Android-x64_Android9_Heavy_Edition_Docs
 https://github.com/seanpm2001/Android-x64_LiveCD_9A_Docs
 
-//// Android x64 Android 10.x (9)
+//// Android x64 Android 10.x (10)
 
 https://github.com/seanpm2001/Android-x64_Android10_LiveCD_Edition
 https://github.com/seanpm2001/Android-x64_Android10_DeGoogled_Edition
@@ -149,14 +149,20 @@ https://github.com/seanpm2001/Android-x64_Android10_LiveCD_Edition_Docs
 https://github.com/seanpm2001/Android-x64_Android10_DeGoogled_Edition_Docs
 https://github.com/seanpm2001/Android-x64_Android10_Vanilla_Edition_Docs
 https://github.com/seanpm2001/Android-x64_Android10_Heavy_Edition_Docs
+https://github.com/seanpm2001/Android-x64_LiveCD_10A_Docs
 
-//// Android x64 Android 11.x (5)
+//// Android x64 Android 11.x (10)
 
 https://github.com/seanpm2001/Android-x64_Android11_LiveCD_Edition
 https://github.com/seanpm2001/Android-x64_Android11_DeGoogled_Edition
 https://github.com/seanpm2001/Android-x64_Android11_Vanilla_Edition
 https://github.com/seanpm2001/Android-x64_Android11_Heavy_Edition
 https://github.com/seanpm2001/Android-x64_LiveCD_11A
+https://github.com/seanpm2001/Android-x64_Android11_LiveCD_Edition_Docs
+https://github.com/seanpm2001/Android-x64_Android11_DeGoogled_Edition_Docs
+https://github.com/seanpm2001/Android-x64_Android11_Vanilla_Edition_Docs
+https://github.com/seanpm2001/Android-x64_Android11_Heavy_Edition_Docs
+https://github.com/seanpm2001/Android-x64_LiveCD_11A_Docs
 
 //// Android x64 Android 12.x (5)
 
@@ -228,8 +234,8 @@ https://github.com/seanpm2001/Android-x64_Android16.1_Vanilla_Edition
 https://github.com/seanpm2001/Android-x64_Android16.1_Heavy_Edition
 
 //// ----------------------------------------------------- \\\\
-//// Repo count (Android x64): 151
-//// 1+1+2+10+10+10+10+10+10+10+10+10+10+5+5+5+5+5+4+5+4+5+4=151
+//// Repo count (Android x64): 157
+//// 1+1+2+10+10+10+10+10+10+10+10+10+10+10+10+5+5+5+4+5+4+5+4=151
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
@@ -244,15 +250,15 @@ https://github.com/seanpm2001/Android-x32x64x128
 //// Repo count (See also): 4
 //// 4+0=4
 //// ----------------------------------------------------- \\\\
-//// Total repo count: 155
-//// 151+4=155
+//// Total repo count: 161
+//// 157+4=161
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 15 (2025, Thursday, January 25th at 03:30 pm PST)
-//// Line count (including blank lines and compiler line): 259
+//// File version: 16 (2025, Saturday, January 25th at 04:28 pm PST)
+//// Line count (including blank lines and compiler line): 265
 //// ----------------------------------------------------- \\\\
 
 //// End of file
