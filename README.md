@@ -91,7 +91,7 @@ See also: [:octocat: `Android x32`](https://github.com/seanpm2001/Android-x32/) 
 - [`10.0 - Legal`](#Legal)
 - - [`10.1 - Disclaimers`](#Disclaimers)
 - - [`10.2 - Licensing`](#Licensing)
-- [`11.0 - Tags`](#TagS)
+- [`11.0 - Tags`](#Tags)
 - [`12.0 - File info`](#File-info)
 - [`13.0 - File history`](#File-history)
 - - [`13.1 - Version 1 (2022, Sunday, November 20th at 09:30 pm PST)`](#Version-1-2022-Sunday-November-20th-at-09-30-pm-PST)
@@ -105,6 +105,7 @@ See also: [:octocat: `Android x32`](https://github.com/seanpm2001/Android-x32/) 
 - - [`13.9 - Version 9 (2025, Thursday, January 23rd at 03:20 pm PST)`](#Version-9-2025-Thursday-January-23rd-at-03-20-pm-PST)
 - - [`13.10 - Version 10 (2025, Friday, January 24th at 04:14 pm PST)`](#Version-10-2025-Friday-January-24th-at-04-14-pm-PST)
 - - [`13.11 - Version 11 (2025, Saturday, January 25th at 04:25 pm PST)`](#Version-11-2025-Saturday-January-25th-at-04-25-pm-PST)
+- - [`13.12 - Version 12 (2025, Sunday, January 25th at 04:09 pm PST)`](#Version-12-2025-Sunday-January-26th-at-04-09-pm-PST)
 - [`14.0 - Footer`](#Footer)
 - - [`14.9 - End of file`](#EOF)
 
@@ -1177,6 +1178,8 @@ A list of components, programs, and LIBraries included with Android x64.
 
 <details open><summary><p><b>Click/tap here to expand/collapse the Candroid section</b></p></summary>
 
+<img alt="Candroid logo failed to load. Click/tap here to attempt to view it" src="/Graphics/Candroid/Logo/PNG/Candroid.png" width="256" height="256" title="Candroid logo"/>
+
 > Repository: [:octocat: `https://github.com/seanpm2001/Candroid/`](https://github.com/seanpm2001/Candroid/)
 
 > > License: GNU General Public License v3.0
@@ -1201,6 +1204,8 @@ A list of components, programs, and LIBraries included with Android x64.
 
 <details open><summary><p><b>Click/tap here to expand/collapse the F-Droid section</b></p></summary>
 
+<img alt="F-Droid logo failed to load. Click/tap here to attempt to view it" src="/Graphics/Programs/F-Droid/SVG/F-Droid_Logo_4.svg" width="256" height="256" title="F-Droid logo"/>
+
 - Website: [`https://f-droid.org/`](https://f-droid.org/)
 - Repository: [:octocat: `https://github.com/f-droid/fdroidclient/`](https://github.com/f-droid/fdroidclient/)
 
@@ -1214,6 +1219,8 @@ A list of components, programs, and LIBraries included with Android x64.
 
 <details open><summary><p><b>Click/tap here to expand/collapse the DuckDuckGo Privacy Browser section</b></p></summary>
 
+<img alt="DuckDuckGo logo failed to load. Click/tap here to attempt to view it" src="/Graphics/Programs/DuckDuckGo/PNG/DuckDuckGo_Classic_Logo_512px.png" width="256" height="256" title="DuckDuckGo (DDG) logo"/>
+
 Website: [`https://duckduckgo.com/app/`](https://duckduckgo.com/app/)
 
 **Included as an APK file**
@@ -1225,6 +1232,8 @@ Website: [`https://duckduckgo.com/app/`](https://duckduckgo.com/app/)
 #### PhoneHome (SMS program)
 
 <details open><summary><p><b>Click/tap here to expand/collapse the PhoneHome (SMS program) section</b></p></summary>
+
+<img alt="PhoneHome logo failed to load. Click/tap here to attempt to view it" src="/Graphics/Programs/PhoneHome/PNG/GlossySphericalPhone1.png" width="256" height="256" title="PhoneHome logo"/>
 
 > Repository: [:octocat: `https://github.com/seanpm2001/PhoneHome`](https://github.com/seanpm2001/PhoneHome/)
 
@@ -1248,6 +1257,8 @@ Software LIBraries included with Android x64 include:
 
 <details open><summary><p><b>Click/tap here to expand/collapse the SimZonns section</b></p></summary>
 
+<img alt="SimZonns logo failed to load. Click/tap here to attempt to view it" src="/Graphics/LIBraries/SimZonns/PNG/SIMZONN.png" width="256" height="256" title="SimZonns logo"/>
+
 > Repository: [:octocat: `https://github.com/seanpm2001/SimZonns/`](https://github.com/seanpm2001/SimZonns/)
 
 > > License: GNU General Public License v3.0
@@ -1261,6 +1272,8 @@ Software LIBraries included with Android x64 include:
 #### NetM
 
 <details open><summary><p><b>Click/tap here to expand/collapse the NetM section</b></p></summary>
+
+<img alt="NetM logo failed to load. Click/tap here to attempt to view it" src="/Graphics/LIBraries/NetM/NetM/PNG/NetWebMedia_Icon.png" width="256" height="256" title="NetM logo"/>
 
 > Repository: [:octocat: `https://github.com/seanpm2001/NetM/`](https://github.com/seanpm2001/NetM/)
 
@@ -1276,6 +1289,8 @@ Software LIBraries included with Android x64 include:
 
 <details open><summary><p><b>Click/tap here to expand/collapse the NetP section</b></p></summary>
 
+<img alt="NetP logo failed to load. Click/tap here to attempt to view it" src="/Graphics/LIBraries/NetM/NetP/PNG/NetWebMedia_Icon.png" width="256" height="256" title="NetP logo"/>
+
 > Repository: [:octocat: `https://github.com/seanpm2001/NetP/`](https://github.com/seanpm2001/NetP/)
 
 > > License: GNU General Public License v3.0
@@ -1289,6 +1304,8 @@ Software LIBraries included with Android x64 include:
 #### NetV
 
 <details open><summary><p><b>Click/tap here to expand/collapse the NetV section</b></p></summary>
+
+<img alt="NetV logo failed to load. Click/tap here to attempt to view it" src="/Graphics/LIBraries/NetM/NetV/PNG/NetWebMedia_Icon.png" width="256" height="256" title="NetV logo"/>
 
 > Repository: [:octocat: `https://github.com/seanpm2001/NetV/`](https://github.com/seanpm2001/NetV/)
 
@@ -1315,6 +1332,8 @@ _End of Android x64 component/programs list._
 ## Android x86
 
 <details open><summary><p><b>Click/tap here to expand/collapse the Android x86 section</b></p></summary>
+
+<img alt="Android x86 logo failed to load. Click/tap here to attempt to view it" src="/Graphics/Android-x86/Logo/PNG/Android-x86.png" width="256" height="256" title="Android x86 logo"/>
 
 > Website: [`https://www.android-x86.org/`](https://www.android-x86.org/)
 
@@ -1360,6 +1379,8 @@ Projects that are related to Android x64 include:
 ### Community
 
 <details open><summary><p><b>Click/tap here to expand/collapse the Community projects section</b></p></summary>
+
+<img alt="Android x86 logo failed to load. Click/tap here to attempt to view it" src="/Graphics/Android-x86/Logo/PNG/Android-x86.png" width="256" height="256" title="Android x86 logo"/>
 
 - [`Android x86`](https://www.android-x86.org/) The inspiration to the Android x32 and Android x64 projects
 
@@ -1469,12 +1490,12 @@ _End of legal information section_
     <td>
 
 - **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `11 (2025, Saturday, January 25th at 04:25 pm PST)` <!-- TODO: This line should be updated daily !-->
-- **Line count (including blank lines and compiler line):** `1,936` <!-- This line doesn't need to be updated daily !-->
-- **Word count:** `13,494` <!-- TODO: This line should be updated daily !-->
-- **Character count (including spaces):** `095,243` <!-- TODO: This line should be updated daily !-->
-- **Character count (excluding spaces):** `084,117` <!-- TODO: This line should be updated daily !-->
-- **Size (in bytes):** `098,413` <!-- TODO: This line should be updated daily !-->
+- **File version:** `12 (2025, Sunday, January 26th at 04:09 pm PST)` <!-- TODO: This line should be updated daily !-->
+- **Line count (including blank lines and compiler line):** `1,998` <!-- This line doesn't need to be updated daily !-->
+- **Word count:** `14,085` <!-- TODO: This line should be updated daily !-->
+- **Character count (including spaces):** `098,842` <!-- TODO: This line should be updated daily !-->
+- **Character count (excluding spaces):** `087,226` <!-- TODO: This line should be updated daily !-->
+- **Size (in bytes):** `102,012` <!-- TODO: This line should be updated daily !-->
 - **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -1874,10 +1895,51 @@ History of this file.
 - - [x] Updated the version date
 - - [x] Updated the line count
 - [x] Updated the `file history` section
+- - [x] Added an entry for version 11
 - [x] Added the `Footer` section
 - [ ] No other changes in version 11
 
 </details> <!-- End of file history: V11 !-->
+
+---
+
+## Version 12 (2025, Sunday, January 26th at 04:09 pm PST)
+
+<details><summary><p lang="en"><b>Click/tap here to expand/collapse the file history entry for version 12</b></p></summary>
+
+**This version was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _A very minor update, just adding some images._
+
+<!-- Development notes from today
+TODO:
+Add logos for F-Droid, DDG, PhoneHome, SimZonns, NetM, NetV, NetP, Candroid, and Android x86
+!-->
+
+> Changes:
+
+- [x] Updated the `Table of contents` section
+- [x] Updated the `Candroid` section to include the Candroid logo
+- [x] Updated the `F-Droid` section to include the F-Droid logo
+- [x] Updated the `DuckDuckGo Privacy Browser` section to include the DuckDuckGo logo
+- [x] Updated the `PhoneHome` section to include the PhoneHome logo
+- [x] Updated the `SimZonns` section to include the SimZonns logo
+- [x] Updated the `NetM` section to include the NetM logo
+- [x] Updated the `NetP` section to include the NetP logo
+- [x] Updated the `NetV` section to include the NetV logo
+- [x] Updated the `Android x86` section to include the Android x86 logo
+- [x] Updated the `Community` section to include the Android x86 logo
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 12
+- - [x] Updated the entry for version 11
+- [x] Added the `Footer` section
+- [ ] No other changes in version 12
+
+</details> <!-- End of file history: V12 !-->
 
 <!-- /%/2001_FILE_HISTORY_SECTION.END\%\ !-->
 
