@@ -171,18 +171,19 @@ https://github.com/seanpm2001/Android-x64_Android9_LiveCD_Edition_Docs
 https://github.com/seanpm2001/Android-x64_LiveCD_9A
 https://github.com/seanpm2001/Android-x64_LiveCD_9A_Docs
 
-//// Android x64 Android 9.1x (8)
+//// Android x64 Android 9.1x (9)
 
-//// Confirmed to exist: 00/08 (As of: 2025, February 9th)
+//// Confirmed to exist: 00/09 (As of: 2025, February 9th)
 
 https://github.com/seanpm2001/Android-x64_Android9.1_LiveCD_Edition
+https://github.com/seanpm2001/Android-x64_Android9.1_LiveCD_Edition_Docs
 https://github.com/seanpm2001/Android-x64_Android9.1_DeGoogled_Edition
+https://github.com/seanpm2001/Android-x64_Android9.1_DeGoogled_Edition_Docs
 https://github.com/seanpm2001/Android-x64_Android9.1_Vanilla_Edition
+https://github.com/seanpm2001/Android-x64_Android9.1_Vanilla_Edition_Docs
 https://github.com/seanpm2001/Android-x64_Android9.1_Heavy_Edition
 https://github.com/seanpm2001/Android-x64_LiveCD_9B
-https://github.com/seanpm2001/Android-x64_Android9.1_LiveCD_Edition_Docs
-https://github.com/seanpm2001/Android-x64_Android9.1_DeGoogled_Edition_Docs
-https://github.com/seanpm2001/Android-x64_Android9.1_Vanilla_Edition_Docs
+https://github.com/seanpm2001/Android-x64_LiveCD_9B_Docs
 
 //// Android x64 Android 10.x (10)
 
@@ -378,7 +379,7 @@ https://github.com/seanpm2001/Android-x64_Android16.1_LiveCD_Edition
 
 //// ----------------------------------------------------- \\\\
 //// Repo count (Android x64): 223
-//// 1+1+2+10+10+10+10+10+10+10+10+10+10+8+10+10+10+10+10+10+10+10+10+4+10+4+8+4=213
+//// 1+1+2+10+10+10+10+10+10+10+10+10+10+9+10+10+10+10+10+10+10+10+10+4+10+4+8+4=213
 //// (formula is incorrect, a number is either missing, duplicated, or entered incorrectly)
 //// ----------------------------------------------------- \\\\
 
@@ -401,8 +402,8 @@ https://github.com/seanpm2001/Android-x32x64x128
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 24 (2025, Sunday, February 9th at 06:06 pm PST)
-//// Line count (including blank lines and compiler line): 409
+//// File version: 25 (2025, Sunday, February 9th at 09:38 pm PST)
+//// Line count (including blank lines and compiler line): 410
 //// ----------------------------------------------------- \\\\
 
 //// End of file
