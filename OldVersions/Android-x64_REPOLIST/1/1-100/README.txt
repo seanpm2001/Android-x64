@@ -2,7 +2,7 @@
 //// Android-x64_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Android x64 project repositories by @seanpm2001
-//// As of 2025, Sunday, February 9th
+//// As of 2025, Monday, February 10th
 
 //// ----------------------------------------------------- \\\\
 //// Android x64 Project (223)
@@ -36,7 +36,7 @@ https://github.com/seanpm2001/Android-x64_Docs
 https://github.com/seanpm2001/Android-x64_Workspace_Firefox
 https://github.com/seanpm2001/Android-x64_Workspace_Firefox_Docs
 
-//// Android x64 Android 5.x (10)
+//// Android x64 Android 5.x (Lollipop) (10)
 
 //// Confirmed to exist: 10/10 (As of: 2025, February 7th)
 
@@ -51,7 +51,7 @@ https://github.com/seanpm2001/Android-x64_Android5.0_LiveCD_Edition_Docs
 https://github.com/seanpm2001/Android-x64_LiveCD_5A
 https://github.com/seanpm2001/Android-x64_LiveCD_5A_Docs
 
-//// Android x64 Android 5.1.x (10)
+//// Android x64 Android 5.1.0x (Lollipop) (10)
 
 //// Confirmed to exist: 10/10 (As of: 2025, February 7th)
 
@@ -66,7 +66,7 @@ https://github.com/seanpm2001/Android-x64_Android5.1_LiveCD_Edition_Docs
 https://github.com/seanpm2001/Android-x64_LiveCD_5B
 https://github.com/seanpm2001/Android-x64_LiveCD_5B_Docs
 
-//// Android x64 Android 6.x (10)
+//// Android x64 Android 6.x (Marshmallow) (10)
 
 //// Confirmed to exist: 10/10 (As of: 2025, February 7th)
 
@@ -81,7 +81,7 @@ https://github.com/seanpm2001/Android-x64_Android6.0_LiveCD_Edition_Docs
 https://github.com/seanpm2001/Android-x64_LiveCD_6B
 https://github.com/seanpm2001/Android-x64_LiveCD_6B_Docs
 
-//// Android x64 Android 6.1.x (10)
+//// Android x64 Android 6.1.x (Marshmallow) (10)
 
 //// Confirmed to exist: 10/10 (As of: 2025, February 7th)
 
@@ -96,7 +96,7 @@ https://github.com/seanpm2001/Android-x64_Android6.1_LiveCD_Edition_Docs
 https://github.com/seanpm2001/Android-x64_LiveCD_6B
 https://github.com/seanpm2001/Android-x64_LiveCD_6B_Docs
 
-//// Android x64 Android 7.x (10)
+//// Android x64 Android 7.x (Nougat) (10)
 
 //// Confirmed to exist: 10/10 (As of: 2025, February 7th)
 
@@ -111,7 +111,7 @@ https://github.com/seanpm2001/Android-x64_Android7.0_LiveCD_Edition_Docs
 https://github.com/seanpm2001/Android-x64_LiveCD_7A
 https://github.com/seanpm2001/Android-x64_LiveCD_7A_Docs
 
-//// Android x64 Android 7.1.x (10)
+//// Android x64 Android 7.1.x (Nougat) (10)
 
 //// Confirmed to exist: 10/10 (As of: 2025, February 7th)
 
@@ -126,7 +126,7 @@ https://github.com/seanpm2001/Android-x64_Android7.1_LiveCD_Edition_Docs
 https://github.com/seanpm2001/Android-x64_LiveCD_7B
 https://github.com/seanpm2001/Android-x64_LiveCD_7B_Docs
 
-//// Android x64 Android 8.x (10)
+//// Android x64 Android 8.x (Oreo) (10)
 
 //// Confirmed to exist: 10/10 (As of: 2025, February 7th)
 
@@ -141,7 +141,7 @@ https://github.com/seanpm2001/Android-x64_Android8.0_LiveCD_Edition_Docs
 https://github.com/seanpm2001/Android-x64_LiveCD_8A
 https://github.com/seanpm2001/Android-x64_LiveCD_8A_Docs
 
-//// Android x64 Android 8.1.x (10)
+//// Android x64 Android 8.1.x (Oreo) (10)
 
 //// Confirmed to exist: 10/10 (As of: 2025, February 7th)
 
@@ -156,7 +156,7 @@ https://github.com/seanpm2001/Android-x64_Android8.1_LiveCD_Edition_Docs
 https://github.com/seanpm2001/Android-x64_LiveCD_8B
 https://github.com/seanpm2001/Android-x64_LiveCD_8B_Docs
 
-//// Android x64 Android 9.x (10)
+//// Android x64 Android 9.x (Pie) (10)
 
 //// Confirmed to exist: 10/10 (As of: 2025, February 7th)
 
@@ -171,9 +171,9 @@ https://github.com/seanpm2001/Android-x64_Android9_LiveCD_Edition_Docs
 https://github.com/seanpm2001/Android-x64_LiveCD_9A
 https://github.com/seanpm2001/Android-x64_LiveCD_9A_Docs
 
-//// Android x64 Android 9.1x (9)
+//// Android x64 Android 9.1x (Pie) (10)
 
-//// Confirmed to exist: 00/09 (As of: 2025, February 9th)
+//// Confirmed to exist: 00/10 (As of: 2025, February 10th)
 
 https://github.com/seanpm2001/Android-x64_Android9.1_LiveCD_Edition
 https://github.com/seanpm2001/Android-x64_Android9.1_LiveCD_Edition_Docs
@@ -182,10 +182,11 @@ https://github.com/seanpm2001/Android-x64_Android9.1_DeGoogled_Edition_Docs
 https://github.com/seanpm2001/Android-x64_Android9.1_Vanilla_Edition
 https://github.com/seanpm2001/Android-x64_Android9.1_Vanilla_Edition_Docs
 https://github.com/seanpm2001/Android-x64_Android9.1_Heavy_Edition
+https://github.com/seanpm2001/Android-x64_Android9.1_Heavy_Edition_Docs
 https://github.com/seanpm2001/Android-x64_LiveCD_9B
 https://github.com/seanpm2001/Android-x64_LiveCD_9B_Docs
 
-//// Android x64 Android 10.x (10)
+//// Android x64 Android 10.x (Q) (10)
 
 //// Confirmed to exist: 10/10 (As of: 2025, February 7th)
 
@@ -200,7 +201,7 @@ https://github.com/seanpm2001/Android-x64_Android10_LiveCD_Edition_Docs
 https://github.com/seanpm2001/Android-x64_LiveCD_10A
 https://github.com/seanpm2001/Android-x64_LiveCD_10A_Docs
 
-//// Android x64 Android 10.1x (10)
+//// Android x64 Android 10.1x (Q) (10)
 
 //// Confirmed to exist: 00/8 (As of: 2025, February 9th)
 
@@ -215,7 +216,7 @@ https://github.com/seanpm2001/Android-x64_Android10.1_LiveCD_Edition_Docs
 https://github.com/seanpm2001/Android-x64_LiveCD_10B
 https://github.com/seanpm2001/Android-x64_LiveCD_10B_Docs
 
-//// Android x64 Android 11.x (10)
+//// Android x64 Android 11.x (R) (10)
 
 //// Confirmed to exist: 00/10 (As of: 2025, February 7th)
 
@@ -230,7 +231,7 @@ https://github.com/seanpm2001/Android-x64_Android11_LiveCD_Edition_Docs
 https://github.com/seanpm2001/Android-x64_LiveCD_11A
 https://github.com/seanpm2001/Android-x64_LiveCD_11A_Docs
 
-//// Android x64 Android 11.1x (10)
+//// Android x64 Android 11.1x (R) (10)
 
 //// Confirmed to exist: 8/10 (As of: 2025, February 8th)
 
@@ -245,7 +246,7 @@ https://github.com/seanpm2001/Android-x64_Android11.1_LiveCD_Edition_Docs
 https://github.com/seanpm2001/Android-x64_LiveCD_11B
 https://github.com/seanpm2001/Android-x64_LiveCD_11B_Docs
 
-//// Android x64 Android 12.x (10)
+//// Android x64 Android 12.x (S) (10)
 
 //// Confirmed to exist: 00/10 (As of: 2025, February 7th)
 //// Heavy edition/Heavy edition docs may have a hyphen between the underscore and the word Heavy
@@ -261,7 +262,7 @@ https://github.com/seanpm2001/Android-x64_Android12_LiveCD_Edition_Docs
 https://github.com/seanpm2001/Android-x64_LiveCD_12A
 https://github.com/seanpm2001/Android-x64_LiveCD_12A_Docs
 
-//// Android x64 Android 12.1.x (10)
+//// Android x64 Android 12.1.x (S) (10)
 
 //// Confirmed to exist: 00/10 (As of: 2025, February 7th)
 //// Heavy edition/Heavy edition docs may have a hyphen between the underscore and the word Heavy
@@ -277,7 +278,7 @@ https://github.com/seanpm2001/Android-x64_Android12.1_LiveCD_Edition_Docs
 https://github.com/seanpm2001/Android-x64_LiveCD_12B
 https://github.com/seanpm2001/Android-x64_LiveCD_12B_Docs
 
-//// Android x64 Android 13.x (10)
+//// Android x64 Android 13.x (T) (10)
 
 //// Confirmed to exist: 00/10 (As of: 2025, February 7th)
 
@@ -292,7 +293,7 @@ https://github.com/seanpm2001/Android-x64_Android13_LiveCD_Edition_Docs
 https://github.com/seanpm2001/Android-x64_LiveCD_13A
 https://github.com/seanpm2001/Android-x64_LiveCD_13A_Docs
 
-//// Android x64 Android 13.1.x (10)
+//// Android x64 Android 13.1.x (T) (10)
 
 //// Confirmed to exist: 00/10 (As of: 2025, February 7th)
 
@@ -307,7 +308,7 @@ https://github.com/seanpm2001/Android-x64_Android13.1_LiveCD_Edition_Docs
 https://github.com/seanpm2001/Android-x64_LiveCD_13B
 https://github.com/seanpm2001/Android-x64_LiveCD_13B_Docs
 
-//// Android x64 Android 14.x (10)
+//// Android x64 Android 14.x (U) (10)
 
 //// Confirmed to exist: 00/10 (As of: 2025, February 7th)
 
@@ -322,16 +323,17 @@ https://github.com/seanpm2001/Android-x64_Android14.0_LiveCD_Edition_Docs
 https://github.com/seanpm2001/Android-x64_LiveCD_14A
 https://github.com/seanpm2001/Android-x64_LiveCD_14A_Docs
 
-//// Android x64 Android 14.1.x (4)
+//// Android x64 Android 14.1.x (U) (5)
 
-//// Confirmed to exist: 4/4 (As of: 2025, February 7th)
+//// Confirmed to exist: 5/5 (As of: 2025, February 10th)
 
 https://github.com/seanpm2001/Android-x64_Android14.1_Heavy_Edition
+https://github.com/seanpm2001/Android-x64_Android14.1_Heavy_Edition_DocS
 https://github.com/seanpm2001/Android-x64_Android14.1_Vanilla_Edition
 https://github.com/seanpm2001/Android-x64_Android14.1_DeGoogled_Edition
 https://github.com/seanpm2001/Android-x64_Android14.1_LiveCD_Edition
 
-//// Android x64 Android 15.x (10)
+//// Android x64 Android 15.x (V) (10)
 
 //// Confirmed to exist: 00/10 (As of: 2025, February 7th)
 
@@ -346,7 +348,7 @@ https://github.com/seanpm2001/Android-x64_Android15.0_LiveCD_Edition_Docs
 https://github.com/seanpm2001/Android-x64_LiveCD_15A
 https://github.com/seanpm2001/Android-x64_LiveCD_15A_Docs
 
-//// Android x64 Android 15.1.x (4)
+//// Android x64 Android 15.1.x (V) (4)
 
 //// Confirmed to exist: 4/4 (As of: 2025, February 7th)
 
@@ -355,7 +357,7 @@ https://github.com/seanpm2001/Android-x64_Android15.1_Vanilla_Edition
 https://github.com/seanpm2001/Android-x64_Android15.1_DeGoogled_Edition
 https://github.com/seanpm2001/Android-x64_Android15.1_LiveCD_Edition
 
-//// Android x64 Android 16.x (8)
+//// Android x64 Android 16.x (W) (8)
 
 //// Confirmed to exist: 0/8 (As of: 2025, February 7th)
 
@@ -368,7 +370,7 @@ https://github.com/seanpm2001/Android-x64_Android16.0_LiveCD_Edition_Docs
 https://github.com/seanpm2001/Android-x64_LiveCD_16A
 https://github.com/seanpm2001/Android-x64_LiveCD_16A_Docs
 
-//// Android x64 Android 16.1.x (4)
+//// Android x64 Android 16.1.x (W) (4)
 
 //// Confirmed to exist: 4/4 (As of: 2025, February 7th)
 
@@ -378,8 +380,8 @@ https://github.com/seanpm2001/Android-x64_Android16.1_DeGoogled_Edition
 https://github.com/seanpm2001/Android-x64_Android16.1_LiveCD_Edition
 
 //// ----------------------------------------------------- \\\\
-//// Repo count (Android x64): 223
-//// 1+1+2+10+10+10+10+10+10+10+10+10+10+9+10+10+10+10+10+10+10+10+10+4+10+4+8+4=213
+//// Repo count (Android x64): 225
+//// 1+1+2+10+10+10+10+10+10+10+10+10+10+9+10+10+10+10+10+10+10+10+10+5+10+4+8+4=225
 //// (formula is incorrect, a number is either missing, duplicated, or entered incorrectly)
 //// ----------------------------------------------------- \\\\
 
@@ -395,15 +397,46 @@ https://github.com/seanpm2001/Android-x32x64x128
 //// Repo count (See also): 4
 //// 4+0=4
 //// ----------------------------------------------------- \\\\
-//// Total repo count: 227
-//// 223+4=227
+//// Total repo count: 230
+//// 226+4=230
+//// ----------------------------------------------------- \\\\
+
+//// Missing entries (as of 2025, February 10th)
+//// Count: 19
+
+https://github.com/seanpm2001/Android-x64_LiveCD_14A
+https://github.com/seanpm2001/Android-x64_LiveCD_14A_Docs
+https://github.com/seanpm2001/Android-x64_Android14.1_Vanilla_Edition_Docs
+https://github.com/seanpm2001/Android-x64_Android14.1_DeGoogled_Edition_Docs
+https://github.com/seanpm2001/Android-x64_Android14.1_LiveCD_Edition_Docs
+https://github.com/seanpm2001/Android-x64_Android15.1_Heavy_Edition_Docs
+https://github.com/seanpm2001/Android-x64_Android15.1_Vanilla_Edition_Docs
+https://github.com/seanpm2001/Android-x64_Android15.1_DeGoogled_Edition_Docs
+https://github.com/seanpm2001/Android-x64_Android15.1_LiveCD_Edition_Docs
+https://github.com/seanpm2001/Android-x64_LiveCD_15B
+https://github.com/seanpm2001/Android-x64_LiveCD_15B_Docs
+https://github.com/seanpm2001/Android-x64_Android16.0_Heavy_Edition_Docs
+https://github.com/seanpm2001/Android-x64_Android16.0_Vanilla_Edition_Docs
+https://github.com/seanpm2001/Android-x64_Android16.1_Heavy_Edition_Docs
+https://github.com/seanpm2001/Android-x64_Android16.1_Vanilla_Edition_Docs
+https://github.com/seanpm2001/Android-x64_Android16.1_DeGoogled_Edition_Docs
+https://github.com/seanpm2001/Android-x64_Android16.1_LiveCD_Edition_Docs
+https://github.com/seanpm2001/Android-x64_LiveCD_16B
+https://github.com/seanpm2001/Android-x64_LiveCD_16B_Docs
+
+//// ----------------------------------------------------- \\\\
+//// Repo count (Missing entries): 19
+//// 19+0=19
+//// ----------------------------------------------------- \\\\
+//// Total repo count: 249
+//// 230+19=249
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 25 (2025, Sunday, February 9th at 09:38 pm PST)
-//// Line count (including blank lines and compiler line): 410
+//// File version: 26 (2025, Monday, February 10th at 05:02 pm PST)
+//// Line count (including blank lines and compiler line): 443
 //// ----------------------------------------------------- \\\\
 
 //// End of file
