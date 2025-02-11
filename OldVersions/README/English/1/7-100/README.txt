@@ -70,44 +70,47 @@ See also: [:octocat: `Android x32`](https://github.com/seanpm2001/Android-x32/) 
 - - [`03.23 - Android 16 (W)`](#Android-16-W)
 - - [`03.24 - Android 16.1 (W) (Unofficial)`](#Android-16-1-W-Unofficial)
 - - [`03.25 - Android 17 (X)`](#Android-17-X)
-- [`04.0 - Unsupported Android versions`](#Unsupported-Android-versions)
-- [`05.0 - Components`](#Components)
-- - [`05.1 - Candroid`](#Candroid)
-- - [`05.2 - Programs`](#Programs)
-- - - [`05.2.1 - F-Droid`](#F-Droid)
-- - - [`05.2.2 - DuckDuckGo privacy browser`](#DuckDuckGo-privacy-browser)
-- - - [`05.2.3 - PhoneHome (SMS program)`](#PhoneHome-SMS-program)
-- - [`05.3 - LIBraries`](#LIBraries)
-- - - [`05.3.1 - SimZonns`](#SimZonns)
-- - - [`05.3.2 - NetM`](#NetM)
-- - - [`05.3.3 - NetP`](#NetP)
-- - - [`05.3.4 - NetV`](#NetV)
-- [`06.0 - Android x86`](#Android-x86/)
-- [`07.0 - Hosting`](#Hosting)
-- [`08.0 - Related projects`](#Related-projects)
-- - [`08.1 - Sister projects`](#Sister-projects)
-- - [`08.2 - Community`](#Community)
-- [`09.0 - Intended usage`](#Intended-usage)
-- [`10.0 - Legal`](#Legal)
-- - [`10.1 - Disclaimers`](#Disclaimers)
-- - [`10.2 - Licensing`](#Licensing)
-- [`11.0 - Tags`](#Tags)
-- [`12.0 - File info`](#File-info)
-- [`13.0 - File history`](#File-history)
-- - [`13.1 - Version 1 (2022, Sunday, November 20th at 09:30 pm PST)`](#Version-1-2022-Sunday-November-20th-at-09-30-pm-PST)
-- - [`13.2 - Version 2 (2022, Sunday, November 20th at 10:04 pm PST)`](#Version-2-2022-Sunday-November-20th-at-10-04-pm-PST)
-- - [`13.3 - Version 3 (2022, Sunday, November 20th at 10:15 pm PST)`](#Version-3-2022-Sunday-November-20th-at-10-15-pm-PST)
-- - [`13.4 - Version 4 (2022, Monday, November 21st at 6:07 pm PST)`](#Version-4-2022-Monday-November-21st-at-6-07-pm-PST)
-- - [`13.5 - Version 5 (2022, Tuesday, November 22nd at 9:55 pm PST)`](#Version-5-2022-Tuesday-November-22nd-at-9-55-pm-PST)
-- - [`13.6 - Version 6 (2022, Tuesday, November 22nd at 11:00 pm PST)`](#Version-6-2022-Tuesday-November-22nd-at-11-00-pm-PST)
-- - [`13.7 - Version 7 (2025, Tuesday, January 21st at 04:19 pm PST)`](#Version-7-2025-Tuesday-January-21st-at-04-19-pm-PST)
-- - [`13.8 - Version 8 (2025, Wednesday, January 22nd at 02:41 pm PST)`](#Version-8-2025-Wednesday-January-22nd-at-02-41-pm-PST)
-- - [`13.9 - Version 9 (2025, Thursday, January 23rd at 03:20 pm PST)`](#Version-9-2025-Thursday-January-23rd-at-03-20-pm-PST)
-- - [`13.10 - Version 10 (2025, Friday, January 24th at 04:14 pm PST)`](#Version-10-2025-Friday-January-24th-at-04-14-pm-PST)
-- - [`13.11 - Version 11 (2025, Saturday, January 25th at 04:25 pm PST)`](#Version-11-2025-Saturday-January-25th-at-04-25-pm-PST)
-- - [`13.12 - Version 12 (2025, Sunday, January 25th at 04:09 pm PST)`](#Version-12-2025-Sunday-January-26th-at-04-09-pm-PST)
-- [`14.0 - Footer`](#Footer)
-- - [`14.9 - End of file`](#EOF)
+- [`04.0 - Position on Android W and beyond`](#Position-on-Android-W-and-beyond)
+- [`05.0 - Unsupported Android versions`](#Unsupported-Android-versions)
+- [`06.0 - Supported devices`](#Supported-devices)
+- [`07.0 - Components`](#Components)
+- - [`07.1 - Candroid`](#Candroid)
+- - [`07.2 - Programs`](#Programs)
+- - - [`07.2.1 - F-Droid`](#F-Droid)
+- - - [`07.2.2 - DuckDuckGo privacy browser`](#DuckDuckGo-privacy-browser)
+- - - [`07.2.3 - PhoneHome (SMS program)`](#PhoneHome-SMS-program)
+- - [`07.3 - LIBraries`](#LIBraries)
+- - - [`07.3.1 - SimZonns`](#SimZonns)
+- - - [`07.3.2 - NetM`](#NetM)
+- - - [`07.3.3 - NetP`](#NetP)
+- - - [`07.3.4 - NetV`](#NetV)
+- [`08.0 - Android x86`](#Android-x86/)
+- [`09.0 - Hosting`](#Hosting)
+- [`10.0 - Related projects`](#Related-projects)
+- - [`10.1 - Sister projects`](#Sister-projects)
+- - [`10.2 - Community`](#Community)
+- [`11.0 - Intended usage`](#Intended-usage)
+- [`12.0 - Legal`](#Legal)
+- - [`12.1 - Disclaimers`](#Disclaimers)
+- - [`12.2 - Licensing`](#Licensing)
+- [`13.0 - Tags`](#Tags)
+- [`14.0 - File info`](#File-info)
+- [`15.0 - File history`](#File-history)
+- - [`15.1 - Version 1 (2022, Sunday, November 20th at 09:30 pm PST)`](#Version-1-2022-Sunday-November-20th-at-09-30-pm-PST)
+- - [`15.2 - Version 2 (2022, Sunday, November 20th at 10:04 pm PST)`](#Version-2-2022-Sunday-November-20th-at-10-04-pm-PST)
+- - [`15.3 - Version 3 (2022, Sunday, November 20th at 10:15 pm PST)`](#Version-3-2022-Sunday-November-20th-at-10-15-pm-PST)
+- - [`15.4 - Version 4 (2022, Monday, November 21st at 6:07 pm PST)`](#Version-4-2022-Monday-November-21st-at-6-07-pm-PST)
+- - [`15.5 - Version 5 (2022, Tuesday, November 22nd at 9:55 pm PST)`](#Version-5-2022-Tuesday-November-22nd-at-9-55-pm-PST)
+- - [`15.6 - Version 6 (2022, Tuesday, November 22nd at 11:00 pm PST)`](#Version-6-2022-Tuesday-November-22nd-at-11-00-pm-PST)
+- - [`15.7 - Version 7 (2025, Tuesday, January 21st at 04:19 pm PST)`](#Version-7-2025-Tuesday-January-21st-at-04-19-pm-PST)
+- - [`15.8 - Version 8 (2025, Wednesday, January 22nd at 02:41 pm PST)`](#Version-8-2025-Wednesday-January-22nd-at-02-41-pm-PST)
+- - [`15.9 - Version 9 (2025, Thursday, January 23rd at 03:20 pm PST)`](#Version-9-2025-Thursday-January-23rd-at-03-20-pm-PST)
+- - [`15.10 - Version 10 (2025, Friday, January 24th at 04:14 pm PST)`](#Version-10-2025-Friday-January-24th-at-04-14-pm-PST)
+- - [`15.11 - Version 11 (2025, Saturday, January 25th at 04:25 pm PST)`](#Version-11-2025-Saturday-January-25th-at-04-25-pm-PST)
+- - [`15.12 - Version 12 (2025, Sunday, January 25th at 04:09 pm PST)`](#Version-12-2025-Sunday-January-26th-at-04-09-pm-PST)
+- - [`15.13 - Version 13 (2025, Monday, February 10th at 05:00 pm PST)`](#Version-13-2025-Monday-February-10th-at-05-00-pm-PST)
+- [`16.0 - Footer`](#Footer)
+- - [`16.9 - End of file`](#EOF)
 
 </details> <!-- End of Table of contents section !-->
 
@@ -1154,6 +1157,27 @@ _End of supported Android versions section._
 
 ***
 
+## Position on Android W and beyond
+
+<details open><summary><p><b>Click/tap here to expand/collapse the unsupported Android versions section</b></p></summary>
+
+Starting with Android 16, Google dropped the alphabetical naming system based on dessert names for Android that had been present since the beginning. Android 16 would have been known as Android W, but is instead Android Baklava. This project will contine using the alphabetical system.
+
+Existing versions
+
+- Android 16 (W)
+
+Upcoming versions
+
+- Android 17 (X)
+- Android 18 (Y)
+- Android 19 (Z)
+- Android 20 (A)
+
+</details> <!-- End of Unsupported Android versions section !-->
+
+***
+
 ## Unsupported Android versions
 
 <details open><summary><p><b>Click/tap here to expand/collapse the unsupported Android versions section</b></p></summary>
@@ -1163,6 +1187,12 @@ The older Android versions currently aren't supported by this project, as they a
 If Android ever becomes a 128 bit operating system, 128 bit Android will be supported by this project: [:octocat: `Android x128`](https://github.com/seanpm2001/Android-x128/)
 
 </details> <!-- End of Unsupported Android versions section !-->
+
+***
+
+## Supported devices
+
+Todo: Make a list of supported devices (the original Android versions, plus more)
 
 ***
 
@@ -1185,6 +1215,19 @@ A list of components, programs, and LIBraries included with Android x64.
 > > License: GNU General Public License v3.0
 
 > > > A replacement tool-set of Android default programs.
+
+<!-- TODO
+
+REMOVE THIS SECTION BEFORE PUBLISHING
+
+V13 ideas:
+Candroid apps complete list, dropdown
+
+REMOVE THIS SECTION BEFORE PUBLISHING
+
+See the Candroid catalogue for the full list
+
+!-->
 
 </details> <!-- End of Candroid section !-->
 
@@ -1490,12 +1533,12 @@ _End of legal information section_
     <td>
 
 - **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `12 (2025, Sunday, January 26th at 04:09 pm PST)` <!-- TODO: This line should be updated daily !-->
-- **Line count (including blank lines and compiler line):** `1,998` <!-- This line doesn't need to be updated daily !-->
-- **Word count:** `14,085` <!-- TODO: This line should be updated daily !-->
-- **Character count (including spaces):** `098,842` <!-- TODO: This line should be updated daily !-->
-- **Character count (excluding spaces):** `087,226` <!-- TODO: This line should be updated daily !-->
-- **Size (in bytes):** `102,012` <!-- TODO: This line should be updated daily !-->
+- **File version:** `13 (2025, Monday, February 10th at 05:00 pm PST)` <!-- TODO: This line should be updated daily !-->
+- **Line count (including blank lines and compiler line):** `2,067` <!-- This line doesn't need to be updated daily !-->
+- **Word count:** `14,423` <!-- TODO: This line should be updated daily !-->
+- **Character count (including spaces):** `101,042` <!-- TODO: This line should be updated daily !-->
+- **Character count (excluding spaces):** `089,066` <!-- TODO: This line should be updated daily !-->
+- **Size (in bytes):** `104,212` <!-- TODO: This line should be updated daily !-->
 - **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -1941,13 +1984,39 @@ Add logos for F-Droid, DDG, PhoneHome, SimZonns, NetM, NetV, NetP, Candroid, and
 
 </details> <!-- End of file history: V12 !-->
 
-<!-- /%/2001_FILE_HISTORY_SECTION.END\%\ !-->
+---
+
+## Version 13 (2025, Monday, February 10th at 05:00 pm PST)
+
+<details><summary><p lang="en"><b>Click/tap here to expand/collapse the file history entry for version 13</b></p></summary>
+
+**This version was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _A very minor update, adding a new section regarding Android W, and a section regarding supported devices. There was something else I was going to do (Candroid app listing) but I decided to skip it for now._
+
+> Changes:
+
+- [x] Updated the `Table of contents` section
+- [x] Added the `Position on Android W and beyond` section
+- [x] Added the `Supported devices` section
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 13
+- [x] Added the `Footer` section
+- [ ] No other changes in version 13
+
+</details> <!-- End of file history: V13 !-->
 
 ---
 
 _End of file history section._
 
 </details> <!-- End of file history section !-->
+
+<!-- /%/2001_FILE_HISTORY_SECTION.END\%\ !-->
 
 ***
 
