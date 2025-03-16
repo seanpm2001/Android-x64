@@ -2,10 +2,10 @@
 //// Android-x64_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Android x64 project repositories by @seanpm2001
-//// As of 2025, Saturday, March 15th
+//// As of 2025, Sunday, March 16th
 
 //// ----------------------------------------------------- \\\\
-//// Android x64 Project (233)
+//// Android x64 Project (244)
 //// ----------------------------------------------------- \\\\
 
 //// Repository order for each Android version
@@ -353,9 +353,9 @@ https://github.com/seanpm2001/Android-x64_Android15.0_LiveCD_Edition_Docs
 https://github.com/seanpm2001/Android-x64_LiveCD_15A
 https://github.com/seanpm2001/Android-x64_LiveCD_15A_Docs
 
-//// Android x64 Android 15.1.x (V) (9)
+//// Android x64 Android 15.1.x (V) (10)
 
-//// Confirmed to exist: 9/9 (As of: 2025, March 15th)
+//// Confirmed to exist: 10/10 (As of: 2025, March 16th)
 
 https://github.com/seanpm2001/Android-x64_Android15.1_Heavy_Edition
 https://github.com/seanpm2001/Android-x64_Android15.1_Heavy_Edition_Docs
@@ -366,13 +366,16 @@ https://github.com/seanpm2001/Android-x64_Android15.1_DeGoogled_Edition_Docs
 https://github.com/seanpm2001/Android-x64_Android15.1_LiveCD_Edition
 https://github.com/seanpm2001/Android-x64_Android15.1_LiveCD_Edition_Docs
 https://github.com/seanpm2001/Android-x64_LiveCD_15B
+https://github.com/seanpm2001/Android-x64_LiveCD_15B_Docs
 
-//// Android x64 Android 16.x (W) (8)
+//// Android x64 Android 16.x (W) (10)
 
-//// Confirmed to exist: 0/8 (As of: 2025, February 7th)
+//// Confirmed to exist: 10/10 (As of: 2025, March 16th)
 
 https://github.com/seanpm2001/Android-x64_Android16.0_Heavy_Edition
+https://github.com/seanpm2001/Android-x64_Android16.0_Heavy_Edition_Docs
 https://github.com/seanpm2001/Android-x64_Android16.0_Vanilla_Edition
+https://github.com/seanpm2001/Android-x64_Android16.0_Vanilla_Edition_Docs
 https://github.com/seanpm2001/Android-x64_Android16.0_DeGoogled_Edition
 https://github.com/seanpm2001/Android-x64_Android16.0_DeGoogled_Edition_Docs
 https://github.com/seanpm2001/Android-x64_Android16.0_LiveCD_Edition
@@ -380,19 +383,24 @@ https://github.com/seanpm2001/Android-x64_Android16.0_LiveCD_Edition_Docs
 https://github.com/seanpm2001/Android-x64_LiveCD_16A
 https://github.com/seanpm2001/Android-x64_LiveCD_16A_Docs
 
-//// Android x64 Android 16.1.x (W) (4)
+//// Android x64 Android 16.1.x (W) (10)
 
-//// Confirmed to exist: 4/4 (As of: 2025, February 7th)
+//// Confirmed to exist: 10/10 (As of: 2025, March 16th)
 
 https://github.com/seanpm2001/Android-x64_Android16.1_Heavy_Edition
+https://github.com/seanpm2001/Android-x64_Android16.1_Heavy_Edition_Docs
 https://github.com/seanpm2001/Android-x64_Android16.1_Vanilla_Edition
+https://github.com/seanpm2001/Android-x64_Android16.1_Vanilla_Edition_Docs
 https://github.com/seanpm2001/Android-x64_Android16.1_DeGoogled_Edition
+https://github.com/seanpm2001/Android-x64_Android16.1_DeGoogled_Edition_Docs
 https://github.com/seanpm2001/Android-x64_Android16.1_LiveCD_Edition
+https://github.com/seanpm2001/Android-x64_Android16.1_LiveCD_Edition_Docs
+https://github.com/seanpm2001/Android-x64_LiveCD_16B
+https://github.com/seanpm2001/Android-x64_LiveCD_16B_Docs
 
 //// ----------------------------------------------------- \\\\
-//// Repo count (Android x64): 233
-//// 1+1+2+10+10+10+10+10+10+10+10+10+10+9+10+10+10+10+10+10+10+10+10+5+10+10+9+8+4=233
-//// (formula is incorrect, a number is either missing, duplicated, or entered incorrectly)
+//// Repo count (Android x64): 244
+//// 1+1+2+10+10+10+10+10+10+10+10+10+10+10+10+10+10+10+10+10+10+10+10+10+10+10+10=244
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
@@ -407,46 +415,28 @@ https://github.com/seanpm2001/Android-x32x64x128
 //// Repo count (See also): 4
 //// 4+0=4
 //// ----------------------------------------------------- \\\\
-//// Total repo count: 230
-//// 226+4=230
+//// Total repo count: 248
+//// 244+4=248
 //// ----------------------------------------------------- \\\\
 
-//// Missing entries (as of 2025, February 10th)
-//// Count: 19
+//// Missing entries (as of 2025, March 16th)
+//// Count: 0
 
-https://github.com/seanpm2001/Android-x64_LiveCD_14A
-https://github.com/seanpm2001/Android-x64_LiveCD_14A_Docs
-https://github.com/seanpm2001/Android-x64_Android14.1_Vanilla_Edition_Docs
-https://github.com/seanpm2001/Android-x64_Android14.1_DeGoogled_Edition_Docs
-https://github.com/seanpm2001/Android-x64_Android14.1_LiveCD_Edition_Docs
-https://github.com/seanpm2001/Android-x64_Android15.1_Heavy_Edition_Docs
-https://github.com/seanpm2001/Android-x64_Android15.1_Vanilla_Edition_Docs
-https://github.com/seanpm2001/Android-x64_Android15.1_DeGoogled_Edition_Docs
-https://github.com/seanpm2001/Android-x64_Android15.1_LiveCD_Edition_Docs
-https://github.com/seanpm2001/Android-x64_LiveCD_15B
-https://github.com/seanpm2001/Android-x64_LiveCD_15B_Docs
-https://github.com/seanpm2001/Android-x64_Android16.0_Heavy_Edition_Docs
-https://github.com/seanpm2001/Android-x64_Android16.0_Vanilla_Edition_Docs
-https://github.com/seanpm2001/Android-x64_Android16.1_Heavy_Edition_Docs
-https://github.com/seanpm2001/Android-x64_Android16.1_Vanilla_Edition_Docs
-https://github.com/seanpm2001/Android-x64_Android16.1_DeGoogled_Edition_Docs
-https://github.com/seanpm2001/Android-x64_Android16.1_LiveCD_Edition_Docs
-https://github.com/seanpm2001/Android-x64_LiveCD_16B
-https://github.com/seanpm2001/Android-x64_LiveCD_16B_Docs
+//// No missing entries right now.
 
 //// ----------------------------------------------------- \\\\
-//// Repo count (Missing entries): 19
-//// 19+0=19
+//// Repo count (Missing entries): 0
+//// 0+0=0
 //// ----------------------------------------------------- \\\\
 //// Total repo count: 252
-//// 233+19=252
+//// 252+0=252
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 27 (2025, Saturday, March 15th at 02:58 pm PST)
-//// Line count (including blank lines and compiler line): 453
+//// File version: 28 (2025, Sunday, March 16th at 03:01 pm PST)
+//// Line count (including blank lines and compiler line): 443
 //// ----------------------------------------------------- \\\\
 
 //// End of file
